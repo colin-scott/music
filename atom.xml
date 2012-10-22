@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Rest for the Wicked]]></title>
   <link href="http://colin-scott.github.com/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/"/>
-  <updated>2012-10-21T18:47:28-07:00</updated>
+  <updated>2012-10-21T20:14:51-07:00</updated>
   <id>http://colin-scott.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Colin Scott]]></name>
+    <email><![CDATA[cs@cs]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://colin-scott.github.com/blog/2012/10/21/hello-world/"/>
+    <updated>2012-10-21T19:19:00-07:00</updated>
+    <id>http://colin-scott.github.com/blog/2012/10/21/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
