@@ -7,7 +7,8 @@ title: Rest for the Wicked
 subtitle: Thoughts on software-defined networking
 author: Colin Scott
 simple_search: http://google.com/search
-description: "Second Year PhD student at UC Berkeley"
+description: "Thoughts on software-defined networking"
+keywords: SDN, software-defined networking, troubleshooting, Berkeley, Colin Scott, Scott Shenker
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
