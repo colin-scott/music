@@ -14,16 +14,14 @@ arises from two properties in particular:
 + Limited knowledge: each node knows its own state, and it knows what state
 the other nodes were in recently, but it can't know their current state.
 
-+ Failures: nodes can fail at any time, and the network can delay or drop
++ (Partial) failures: individual nodes can fail at any time, and the network can delay or drop
 messages arbitrarily.
 
 Why are these properties difficult to grapple with? Suppose you're writing
 code for a single node. You're deep in a nested conditional statement, and you
 need to deal with a message arrival. How do you react? What if the message
-you're seeing was actually delayed by the network and is no longer relevant?
-What if another important message is on its way to you, but hasn't quite
-arrived yet? What if some of the nodes you need to coordinate with have
-failed? The set of possible event sequences you need to reason about is huge,
+you're seeing was actually delayed by the network and is no longer relevant? What if some of the nodes you need to coordinate with have
+failed, but you aren't aware of it yet? The set of possible event sequences you need to reason about is huge,
 and it's all too easy to forget about the one nasty corner case that will
 eventually bring your system to a screeching halt.
 
@@ -62,8 +60,8 @@ Paxos), and focus our attention on replication.
 <!-- And atomic commit? -->
 
 Now that we have a concrete example to think about, let's go over a few
-solutions this problem. The first four share the same philosophy: <em>"get
-the ordering right"</em>.
+solutions this problem. The first four share the same philosophy: *"get
+the ordering right"*.
 
 ### Take it case-by-case
 
@@ -74,8 +72,8 @@ later.
 
 This fix seems easy in retrospect. But recall how the bug came about in the
 first place: the programmer had some set of event orderings in mind when
-writing the code, but didn't implement one corner case. How do we know that
-there isn't another race condition lurking somewhere else in the code?
+writing the code, but didn't implement one corner case. How do we know 
+there isn't another race condition lurking somewhere else in the code? [4]
 
 The number of event orderings you need to consider in a distributed system is
 truly huge; it scales combinatorially with the number of nodes you're
@@ -84,13 +82,11 @@ need to reason on a case-by-case basis altogether.
 
 ### Replicate the computation
 
-Consider a distributed system consisting of only one node. In this world,
+Consider a system consisting of only one node. In this world,
 there is a single, global order (with no race conditions)!
 
-How can we obtain a global event order, yet still achieve fault tolerance? We
-can have the backup nodes mimic every step of the master node: forward all
-inputs to the master, have the master choose a serial order for those events,
-and replicate those inputs to the backups [4]. The key here is that each
+How can we obtain a global event order, yet still achieve fault tolerance? One way [5] is to have the backup nodes mimic every step of the master node: forward all
+inputs to the master, have the master choose a serial order for those events, issue the appropriate commands to the switches, and replicate the decision to the backups [6]. The key here is that each
 backup should execute the computation in the exact same order as the master.
 
 For the Floodlight bug, the backup would still need to hold the link failure
@@ -106,21 +102,21 @@ Transactions allow us to make a group of operations appear either as if they
 happened simultaneously, or not at all. This is a powerful idea!
 
 How could transactions help us here? Suppose we did the following: whenever a
-message arrives, take a snapshot of our state. Then find the event handler
-for that message, wrap it in a transaction, run the event handler, and  hand
+message arrives, find the event handler
+for that message, wrap it in a transaction, run the event handler, and hand
 the result of the transaction to the master controller. The master
 decides on a global order, checks whether any concurrent transactions
 conflict with each other (and aborts one of them if they do), sends the
-serialized transactions to the backups, and waits for ACKs before logging
-a commit message and updating the switches.
+serialized transactions to the backups, and waits for ACKs before updating the switches and logging
+a commit message.
 
-This approach is like the previous two, but gives us two more benefits:
+This is very similar to the previous solution, but it gives us two benefits over the previous approach:
 
-+ We can handle more events in parallel; most of the transactions will
++ We can potentially handle more events in parallel; most of the transactions will
 not conflict with each other, and we can simply abort and retry the ones
 that do.
 + We can now roll back operations. Suppose a network operator issues a
-policy change to the controller, but  realizes that she made a mistake.
+policy change to the controller, but realizes that she made a mistake.
 No problem -- she can simply roll back the previous transaction and start
 again where she began.
 
@@ -137,12 +133,18 @@ provides a library with three operations:
 
 + <tt>join()</tt> a process group
 + <tt>register()</tt> an event handler
-+ <tt>send()</tt> an atomic multicast [5] message to the rest of your process
-group
++ <tt>send()</tt> an atomic multicast message to the rest of your process
+group.
 
-The library handles a bunch of knitty gritty details for you, such as bringing
-newly joined processes up to speed, and ensuring that partitioned groups never
-suffer from "split-brain" problems.
+These primitives provide two crucial guarantees:
+
++ Atomic multicast means that if *any* correct node gets the message, every live
+node will eventually get the message. That implies that if any live
+node ever gets the link failure notification, you can rest assure that
+one of your future masters will get it.
++ The <tt>join()</tt> protocol ensures that every node always know who's a member of its group,
+and that everyone has the same view of who is alive
+and who is not. Failures results in a group change, but everyone will guarantee on the order in which the failure occurred.
 
 With virtual synchrony, we no longer need a single master; atomic multicast
 means that there is a single order of messages observed by all members of the
@@ -155,9 +157,9 @@ them in whatever way it believes most efficient. Since those operations aren't
 causally related, we're guaranteed that the final output won't be noticeably
 different.
 
-OK, let's move onto the final three approaches, which take a different tack
-than the first four: <em>"avoid having to reason about event ordering
-altogether"</em>
+OK, let's move on to the final three approaches, which take a different tack
+than the first four: *"avoid having to reason about event ordering
+altogether"*
 
 ### Make yourself stateless
 
@@ -172,6 +174,8 @@ attempt to keep the backup controllers in sync with the master. Instead, just
 have them recompute the entire network configuration whenever they realize
 they need to take over for the master. Their only job in the meantime is to
 monitor the liveness of the master!
+
+Of course, the tradeoff here is that it may take significantly longer for the newly elected master to get up to speed.
 
 We can apply the same trick to avoid race conditions between concurrent events
 at the master: instead of maintaining locks between threads, just restart
@@ -197,7 +201,7 @@ to the controller (regardless of their order), the same result will come
 out. This makes replication really easy: send inputs to all controllers,
 have each node compute the resulting configuration, and only allow the
 master node to send out commands to the switches once the computation has
-completed.
+completed. The tradeoff is that the performance of declarative languages is difficult to reason about, since there is no explicit ordering.
 
 ### Guarantee self-stabilization
 
@@ -219,17 +223,17 @@ example.
 
 How would a self-stabilizing algorithm help with the Floodlight bug? The
 answer really depends on what network invariants the control application needs
-to maintain. If it's just to provide connectivity [6], we could simply run a
+to maintain. If it's just to provide connectivity [7], we could simply run a
 traditional link-state algorithm: have each switch periodically send port
 status messages to the controllers, have the controllers compute shortest
 paths using Dijkstra's, and have the master push the appropriate updates to
 the switches. Even if there are transient failures, we're guaranteed that the
 network will eventually converge to a configuration with no loops and
-deadends.
+dead-ends.
 
 ---
 Ultimately, the best replication choice depends on your workload and
-application requirements. In any case, I hope this post has convinced you that
+network policies. In any case, I hope this post has convinced you that
 there's more than one way to skin a cat!
 
 #### Footnotes
@@ -250,15 +254,15 @@ routing tables of newly connected switches, but the same flavor of race
 condition could occur for link failures. We chose to focus on link failures
 because they're likely to occur much more often than switch connects.
 
-[4] We still need to maintain the invariant that only the master modifies the
+[4] It's possible in some cases to use a [model checker](http://www.macesystems.org/) to automatically find race conditions, but the runtime complexity is often intractable and very few systems do this in practice.
+
+[5] There are actually a handful of ways to implement state machine replication. Ours depend on a consensus algorithm to choose the master, but you could also run the consensus algorithm itself to achieve replication. There are also cheaper algorithms such as reliable broadcast. Finally, you can also get significantly better read throughput with chain replication, which doesn't require quorum for reads, but writes become more complicated.
+
+[6] We still need to maintain the invariant that only the master modifies the
 the switch configurations. Nonetheless, with state machine replication the
 backup will always know what commands need to be sent to switches if and when
 it takes over for the master.
 
-[5] Virtual synchrony's atomic multicast is implemented with a protocol that
-is equivalent to Paxos, with the added twist that it can re-order messages
-that aren't causally related.
-
-[6] Although if your goal is only to provide connectivity, it's not
+[7] Although if your goal is only to provide connectivity, it's not
 [clear](http://networkheresy.com/2011/11/17/is-openflowsdn-good-at-forwarding/)
 why you're using SDN in the first place.
