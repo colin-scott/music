@@ -117,6 +117,68 @@
       
   <header class="page-header">
     
+      <h1 class="entry-title"><a href="/blog/2012/12/24/latency-trends/">Latency Trends</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-12-24T15:20:00-08:00" pubdate data-updated="true">Dec 24<span>th</span>, 2012</time>
+        
+         | <a href="/blog/2012/12/24/latency-trends/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>In 2010, Jeff Dean gave a <a href="http://goo.gl/0MznW">talk</a> that laid out
+list of <a href="https://gist.github.com/2843375">numbers</a> every programmer
+should know. His list has since become relatively well known among the systems community.</p>
+
+<p>The other day, one of my officemates mentioned a latency number to me, and I realized that
+it was an order of magnitude smaller than what I had memorized from
+Jeff&#8217;s talk. The problem, of course, is that hardware performance doubles
+exponentially! After some digging, I actually found that the numbers Jeff
+quotes are over a decade old [1].</p>
+
+<p>Partly inspired by my officemate <a href="http://www.eecs.berkeley.edu/~apanda/">Aurojit Panda</a>, who is collecting some
+awesome <a href="http://www.eecs.berkeley.edu/~rcs/research/hw_trends.xlsx">data</a> on
+hardware performance, I decided to write a little tool to visualize Jeff&#8217;s
+numbers as a function of time [2].</p>
+
+<p>Without further ado,
+<a href="http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html">here</a> it
+is.</p>
+
+<h4>Footnotes</h4>
+
+<p>[1] Jeff&#8217;s numbers came from a <a href="http://norvig.com/21-days.html#answers">article</a> by Peter Norvig in 2001.</p>
+
+<p>[2] The hardware trends I&#8217;ve gathered are rough estimates. If you want to tweak
+the parameters yourself, I&#8217;ve made it really easy to do so &#8211; please send me updates!</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header class="page-header">
+    
       <h1 class="entry-title"><a href="/blog/2012/10/28/7-ways-to-deal-with-ordering-bugs-in-distributed-systems/">7 Ways to Handle Concurrency in Distributed Systems</a></h1>
     
     
@@ -434,6 +496,10 @@ why you&#8217;re using SDN in the first place.</p>
     <section class="well">
   <ul id="recent_posts" class="nav nav-list">
     <li class="nav-header">Recent Posts</li>
+    
+      <li class="post">
+        <a href="/blog/2012/12/24/latency-trends/">Latency Trends</a>
+      </li>
     
       <li class="post">
         <a href="/blog/2012/10/28/7-ways-to-deal-with-ordering-bugs-in-distributed-systems/">7 ways to handle concurrency in distributed systems</a>
