@@ -35,7 +35,7 @@ The figure above depicts a race condition [1] in
 software-defined networks. With Floodlight, switches maintain one hot
 connection to a master controller and
 one or more cold connections to replica controllers. The master holds the
-authority to modify the configuration of the switches. The other
+authority to modify the configuration of the switches, while the other
 controllers are in slave mode and do not perform any changes to the
 switch configurations unless they detect that the master has crashed [2].
 
@@ -86,7 +86,7 @@ Consider a system consisting of only one node. In this world,
 there is a single, global order (with no race conditions)!
 
 How can we obtain a global event order, yet still achieve fault tolerance? One way [5] is to have the backup nodes mimic every step of the master node: forward all
-inputs to the master, have the master choose a serial order for those events, issue the appropriate commands to the switches, and replicate the decision to the backups [6]. The key here is that each
+inputs to the master, have the master choose a serial order for those events, issue the appriopriate commands to the switches, and replicate the decision to the backups [6]. The key here is that each
 backup should execute the computation in the exact same order as the master.
 
 For the Floodlight bug, the backup would still need to hold the link failure
@@ -106,8 +106,8 @@ message arrives, find the event handler
 for that message, wrap it in a transaction, run the event handler, and hand
 the result of the transaction to the master controller. The master
 decides on a global order, checks whether any concurrent transactions
-conflict with each other (and aborts one of them if they do), sends the
-serialized transactions to the backups, and waits for ACKs before updating the switches and logging
+conflict with each other (and aborts one of them if they do), updates the switches, sends the
+serialized transactions to the backups, and waits for ACKs before logging
 a commit message.
 
 This is very similar to the previous solution, but it gives us two benefits over the previous approach:
@@ -136,7 +136,7 @@ provides a library with three operations:
 + <tt>send()</tt> an atomic multicast message to the rest of your process
 group.
 
-These primitives provide two crucial guarantees:
+These primitives provide two crucial guarentees:
 
 + Atomic multicast means that if *any* correct node gets the message, every live
 node will eventually get the message. That implies that if any live
@@ -144,14 +144,14 @@ node ever gets the link failure notification, you can rest assure that
 one of your future masters will get it.
 + The <tt>join()</tt> protocol ensures that every node always know who's a member of its group,
 and that everyone has the same view of who is alive
-and who is not. Failures results in a group change, but everyone will guarantee on the order in which the failure occurred.
+and who is not. Failures results in a group change, but everyone will agree on the order in which the failure occured.
 
 With virtual synchrony, we no longer need a single master; atomic multicast
-means that there is a single order of messages observed by all members of the
+means that there is a single order of events observed by all members of the
 group, regardless of who initiated the message. And with multiple masters, we
 aren't constrained by the speed of a single node.
 
-The really cool part of virtual synchrony is that when the library detects
+The *virtual* part of virtual synchrony is that when the library detects
 that two operations are not causally related to each other, it can reorder
 them in whatever way it believes most efficient. Since those operations aren't
 causally related, we're guaranteed that the final output won't be noticeably
@@ -201,7 +201,8 @@ to the controller (regardless of their order), the same result will come
 out. This makes replication really easy: send inputs to all controllers,
 have each node compute the resulting configuration, and only allow the
 master node to send out commands to the switches once the computation has
-completed. The tradeoff is that the performance of declarative languages is difficult to reason about, since there is no explicit ordering.
+completed. The tradeoff is that without an explicit ordering.
+ the performance of declarative languages is difficult to reason about.
 
 ### Guarantee self-stabilization
 
@@ -229,7 +230,7 @@ status messages to the controllers, have the controllers compute shortest
 paths using Dijkstra's, and have the master push the appropriate updates to
 the switches. Even if there are transient failures, we're guaranteed that the
 network will eventually converge to a configuration with no loops and
-dead-ends.
+deadends.
 
 ---
 Ultimately, the best replication choice depends on your workload and
@@ -256,13 +257,12 @@ because they're likely to occur much more often than switch connects.
 
 [4] It's possible in some cases to use a [model checker](http://www.macesystems.org/) to automatically find race conditions, but the runtime complexity is often intractable and very few systems do this in practice.
 
-[5] There are actually a handful of ways to implement state machine replication. Ours depend on a consensus algorithm to choose the master, but you could also run the consensus algorithm itself to achieve replication. There are also cheaper algorithms such as reliable broadcast. Finally, you can also get significantly better read throughput with chain replication, which doesn't require quorum for reads, but writes become more complicated.
+[5] There are actually a handful of ways to implement state machine replication. Ours depend on a concensus algorithm to choose the master, but you could also run the concensus algorithm itself to achieve replication. There are also cheaper algorithms such as reliable broadcast. You can also get significantly better read throughput with chain replication, which doesn't require quorum for reads, but writes become more complicated.
 
 [6] We still need to maintain the invariant that only the master modifies the
 the switch configurations. Nonetheless, with state machine replication the
 backup will always know what commands need to be sent to switches if and when
 it takes over for the master.
 
-[7] Although if your goal is only to provide connectivity, it's not
-[clear](http://networkheresy.com/2011/11/17/is-openflowsdn-good-at-forwarding/)
+[7] Although if your goal is only to provide connectivity, it's [not clear](http://networkheresy.com/2011/11/17/is-openflowsdn-good-at-forwarding/)
 why you're using SDN in the first place.

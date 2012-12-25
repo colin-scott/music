@@ -264,6 +264,5 @@ the switch configurations. Nonetheless, with state machine replication the
 backup will always know what commands need to be sent to switches if and when
 it takes over for the master.
 
-[7] Although if your goal is only to provide connectivity, it's not
-[clear](http://networkheresy.com/2011/11/17/is-openflowsdn-good-at-forwarding/)
+[7] Although if your goal is only to provide connectivity, it's [not clear](http://networkheresy.com/2011/11/17/is-openflowsdn-good-at-forwarding/)
 why you're using SDN in the first place.
