@@ -4,7 +4,7 @@
   <title><![CDATA[Rest for the Wicked]]></title>
   <link href="http://colin-scott.github.com/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/"/>
-  <updated>2012-12-24T16:34:55-08:00</updated>
+  <updated>2013-01-16T23:41:58-08:00</updated>
   <id>http://colin-scott.github.com/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -39,7 +39,8 @@ is.</p>
 
 <h4>Footnotes</h4>
 
-<p>[1] Jeff&#8217;s numbers came from an <a href="http://norvig.com/21-days.html#answers">article</a> by Peter Norvig in 2001.</p>
+<p>[1] Jeff&#8217;s numbers are from 2001, and were first publicized by Peter Norvig in this
+<a href="http://norvig.com/21-days.html#answers">article</a>.</p>
 
 <p>[2] Layout stolen directly from <a href="https://github.com/ayshen">ayshen</a> on GitHub.</p>
 
