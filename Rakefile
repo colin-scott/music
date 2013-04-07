@@ -11,7 +11,7 @@ rsync_delete   = true
 deploy_default = "push"
 
 # This will be configured for you when you run config_deploy
-deploy_branch  = "master"
+deploy_branch  = "gh-pages"
 
 ## -- Misc Configs -- ##
 
@@ -103,6 +103,7 @@ task :new_post, :title do |t, args|
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
+    post.puts "permalink: "
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "comments: true"

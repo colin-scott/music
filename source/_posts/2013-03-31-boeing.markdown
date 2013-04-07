@@ -1,0 +1,10 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=CU4i8Qo4nrw
+title: "Boeing, Nada"
+date: 2013-03-31 10:14
+comments: true
+categories:
+---
+
+

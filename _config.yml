@@ -2,13 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://colin-scott.github.com
-title: Rest for the Wicked
-subtitle: Thoughts on software-defined networking
+url: http://colin-scott.github.com/music
+title: Music Notebook
+subtitle: A history of music that fits my mood
 author: Colin Scott
 simple_search: http://google.com/search
-description: "Thoughts on software-defined networking"
-keywords: SDN, software-defined networking, troubleshooting, Berkeley, Colin Scott, Scott Shenker
+description: A history of music that fits my mood
+keywords:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -17,7 +17,7 @@ keywords: SDN, software-defined networking, troubleshooting, Berkeley, Colin Sco
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /music/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email: cs@cs
@@ -27,7 +27,7 @@ email: cs@cs
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /music
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
@@ -59,7 +59,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user: colin-scott
+github_user:
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
@@ -90,8 +90,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: restforthewicked
-disqus_show_comment_count: true
+disqus_short_name:
+disqus_show_comment_count:
 
 # Google Analytics
 google_analytics_tracking_id:

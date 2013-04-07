@@ -1,0 +1,10 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=jaslo4Ws6E4
+title: "Colonel Bagshot, Six Day War"
+date: 2013-04-02 15:20
+comments: true
+categories:
+---
+
+
