@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Rest for the Wicked]]></title>
-  <link href="http://colin-scott.github.com/atom.xml" rel="self"/>
-  <link href="http://colin-scott.github.com/"/>
-  <updated>2013-01-17T00:08:56-08:00</updated>
-  <id>http://colin-scott.github.com/</id>
+  <title><![CDATA[Song of the Day Diary]]></title>
+  <link href="http://colin-scott.github.com/music/atom.xml" rel="self"/>
+  <link href="http://colin-scott.github.com/music/"/>
+  <updated>2013-04-07T01:12:26-07:00</updated>
+  <id>http://colin-scott.github.com/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
     <email><![CDATA[cs@cs]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Latency Trends]]></title>
-    <link href="http://colin-scott.github.com/blog/2012/12/24/latency-trends/"/>
+    <link href="http://colin-scott.github.com/music/blog/2012/12/24/latency-trends/"/>
     <updated>2012-12-24T15:20:00-08:00</updated>
-    <id>http://colin-scott.github.com/blog/2012/12/24/latency-trends</id>
+    <id>http://colin-scott.github.com/music/blog/2012/12/24/latency-trends</id>
     <content type="html"><![CDATA[<p>In 2010, Jeff Dean gave a <a href="http://goo.gl/0MznW">talk</a> that laid out
 a list of <a href="https://gist.github.com/2843375">numbers</a> every programmer
 should know. His list has since become relatively well known among the systems community.</p>
@@ -52,9 +52,9 @@ updates! Better yet, issue a <a href="https://github.com/colin-scott/interactive
   
   <entry>
     <title type="html"><![CDATA[7 ways to handle concurrency in distributed systems]]></title>
-    <link href="http://colin-scott.github.com/blog/2012/10/28/7-ways-to-deal-with-ordering-bugs-in-distributed-systems/"/>
+    <link href="http://colin-scott.github.com/music/blog/2012/10/28/7-ways-to-deal-with-ordering-bugs-in-distributed-systems/"/>
     <updated>2012-10-28T17:54:00-07:00</updated>
-    <id>http://colin-scott.github.com/blog/2012/10/28/7-ways-to-deal-with-ordering-bugs-in-distributed-systems</id>
+    <id>http://colin-scott.github.com/music/blog/2012/10/28/7-ways-to-deal-with-ordering-bugs-in-distributed-systems</id>
     <content type="html"><![CDATA[<p><em>tl;dr: handling event ordering correctly in distributed systems is tricky.
 In this post I cover 7 approaches to coping with concurrency.</em></p>
 
