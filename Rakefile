@@ -111,6 +111,11 @@ task :new_post, :title do |t, args|
     post.puts "---"
   end
   system "vim #{filename}"
+  system "git add ."
+  system "git commit"
+  system "git push"
+  system "rake generate"
+  system "rake deploy"
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
