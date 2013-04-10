@@ -112,7 +112,7 @@ task :new_post, :title do |t, args|
   end
   system "vim #{filename}"
   system "git add ."
-  system "git commit"
+  system "git commit -m 'new song'"
   system "git push"
   system "rake generate"
   system "rake deploy"
