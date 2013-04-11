@@ -88,6 +88,16 @@ task :preview do
   [jekyllPid, compassPid, rackupPid].each { |pid| Process.wait(pid) }
 end
 
+def parse_youtube_video_id(filename)
+  require 'uri'
+  File.foreach(filename) do |line|
+    if line =~ /permalink/
+      url = line.split[1]
+      puts url
+    end
+  end
+end
+
 # usage rake new_post[my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")
 desc "Begin a new post in #{source_dir}/#{posts_dir}"
 task :new_post, :title do |t, args|
@@ -111,6 +121,7 @@ task :new_post, :title do |t, args|
     post.puts "---"
   end
   system "vim #{filename}"
+  system "youtube_api/add_video.py --video_id=#{parse_youtube_video_id filename}"
   system "git add ."
   system "git commit -m 'new song'"
   system "git push"
