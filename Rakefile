@@ -93,7 +93,8 @@ def parse_youtube_video_id(filename)
   File.foreach(filename) do |line|
     if line =~ /permalink/
       url = line.split[1]
-      puts url
+      video_id = URI(url).query.split("v=")[1]
+      return video_id
     end
   end
 end
