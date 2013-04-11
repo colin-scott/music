@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=SAoc9EDxYwc
+title: "Jimi Hendrix, Pali Gap"
+date: 2013-04-10 17:24
+comments: true
+categories: 
+---
