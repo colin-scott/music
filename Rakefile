@@ -122,8 +122,7 @@ task :new_post, :title do |t, args|
     post.puts "---"
   end
   system "vim #{filename}"
-  puts "Video ID: #{parse_youtube_video_id(filename)}"
-  system "youtube_api/add_video.py --video_id=#{parse_youtube_video_id(filename)}"
+  system "./add_video.py video_id=#{parse_youtube_video_id(filename)}"
   system "git add ."
   system "git commit -m 'new song'"
   system "git push"

@@ -46,7 +46,7 @@ FLAGS = gflags.FLAGS
 # application, including client_id and client_secret.
 # You can see the Client ID and Client secret on the API Access tab on the
 # Google APIs Console <https://code.google.com/apis/console>
-CLIENT_SECRETS = 'client_secrets.json'
+CLIENT_SECRETS = 'youtube_api/client_secrets.json'
 
 # Helpful message to display if the CLIENT_SECRETS file is missing.
 MISSING_CLIENT_SECRETS_MESSAGE = """
