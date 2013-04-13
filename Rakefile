@@ -123,7 +123,7 @@ task :new_post, :title do |t, args|
   end
   system "vim #{filename}"
   system "youtube_api/add_video.py --video_id=#{parse_youtube_video_id(filename)}"
-  system "git add ."
+  system "git add source/_posts"
   system "git commit -m 'new song'"
   system "git push"
   system "rake generate"
