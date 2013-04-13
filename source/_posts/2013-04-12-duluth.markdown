@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=uK4S3pkbaWU
+title: "Mason Jennings, Duluth"
+date: 2013-04-12 17:16
+comments: true
+categories: 
+---
