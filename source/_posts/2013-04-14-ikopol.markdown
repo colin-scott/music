@@ -2,7 +2,7 @@
 layout: post
 permalink: http://www.youtube.com/watch?v=76bntSFOvpw
 title: "Dauwd, Ikopol"
-date: 2013-04-14 19:21
+date: 2013-04-14 19:32
 comments: true
 categories: 
 ---
