@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=a0RHg5N-APA
+title: "Yes, Survival"
+date: 2013-04-15 21:01
+comments: true
+categories: 
+---
