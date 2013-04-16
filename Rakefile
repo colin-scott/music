@@ -127,15 +127,18 @@ task :new_post, :title do |t, args|
     post.puts "---"
   end
   system "vim #{filename}"
-  video_id = parse_youtube_video_id filename
-  system "youtube_api/add_video.py --video_id=#{video_id}"
   system "git add source/_posts"
   system "git commit -m 'new song'"
   system "git push"
   system "rake generate"
   system "rake deploy"
-  system %{ssh rcs@c5.millennium.berkeley.edu "cd youtube; /usr/local/bin/youtube-dl -t --audio-quality 0 --extract-audio '#{extract_url(filename)}'"}
-  system "scp rcs@c5.millennium.berkeley.edu:~/youtube/*#{video_id}* ~/Music/youtube"
+  url = extract_url filename
+  if url =~ /youtube/i
+    video_id = parse_youtube_video_id filename
+    system "youtube_api/add_video.py --video_id=#{video_id}"
+    system %{ssh rcs@c5.millennium.berkeley.edu "cd youtube; /usr/local/bin/youtube-dl -t --audio-quality 0 --extract-audio '#{url}'"}
+    system "scp rcs@c5.millennium.berkeley.edu:~/youtube/*#{video_id}* ~/Music/youtube"
+  end
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
