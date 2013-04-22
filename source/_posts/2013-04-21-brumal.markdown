@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=1PCYOJartas
+title: "Loess, Brumal"
+date: 2013-04-21 20:35
+comments: true
+categories: 
+---
