@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=vBeKgoqVopk
+title: "The Cinematic Orchestra, Everyday"
+date: 2013-06-06 21:02
+comments: true
+categories: 
+---
