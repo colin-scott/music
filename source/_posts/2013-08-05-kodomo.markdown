@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=v7nKGsvD8JY
+title: "Kodomo, Concept 3"
+date: 2013-08-05 23:40
+comments: true
+categories: 
+---
