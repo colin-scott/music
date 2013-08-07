@@ -1,8 +1,0 @@
----
-layout: post
-permalink: 
-title: "new-post"
-date: 2013-08-06 20:37
-comments: true
-categories: 
----
