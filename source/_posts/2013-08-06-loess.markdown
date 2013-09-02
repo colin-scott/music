@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: http://www.youtube.com/watch?v=4uJ-XR-IE-k
+permalink: http://www.youtube.com/watch?v=b3d0Y3Dk2wY
 title: "Loess, Sonde"
 date: 2013-08-06 08:43
 comments: true
