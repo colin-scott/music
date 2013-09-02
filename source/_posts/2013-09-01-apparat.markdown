@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=ZaWeCNBaDlc
+title: "Apparat, Goodbye"
+date: 2013-09-01 22:37
+comments: true
+categories: 
+---
