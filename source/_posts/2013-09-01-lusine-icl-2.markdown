@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=0vIhuhnJ7XU
+title: "Lusine Icl, Dr Chinme"
+date: 2013-09-01 22:29
+comments: true
+categories: 
+---
