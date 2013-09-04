@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=y_VLq2PjDvQ
+title: "Tor, Heikki"
+date: 2013-09-04 10:14
+comments: true
+categories: 
+---
