@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=K3P2o5gryfs
+title: "Lykke Li, I Know Places"
+date: 2013-09-14 10:04
+comments: true
+categories: 
+---
