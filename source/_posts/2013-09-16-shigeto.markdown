@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=RLc-MxWb1F4
+title: "Shigeto, Detroit Part 1"
+date: 2013-09-16 20:45
+comments: true
+categories: 
+---
