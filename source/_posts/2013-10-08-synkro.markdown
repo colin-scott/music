@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=XWzJzkF9R6g
+title: "Synkro, Look At Yourself"
+date: 2013-10-08 13:19
+comments: true
+categories: 
+---
