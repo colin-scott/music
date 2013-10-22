@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=lbHx9FuYwNo
+title: "Lusine, Lucky"
+date: 2013-10-22 12:47
+comments: true
+categories: 
+---
