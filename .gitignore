@@ -13,3 +13,5 @@ vendor
 node_modules
 youtube_api/
 add_video.dat
+.*pyc
+Gemfile.lock
