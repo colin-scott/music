@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.com/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/music/"/>
-  <updated>2013-12-28T16:31:24-08:00</updated>
+  <updated>2013-12-29T16:45:06-08:00</updated>
   <id>http://colin-scott.github.com/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[John Talabot, Boiler Room '13]]></title>
+    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=g1BYw__Q0Jg"/>
+    <updated>2013-12-29T16:44:00-08:00</updated>
+    <id>http://colin-scott.github.com/musichttp://www.youtube.com/john-talabot</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bonobo, Boiler Room '13]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=ry70lxy2Eas"/>
     <updated>2013-10-13T00:19:00-07:00</updated>
     <id>http://colin-scott.github.com/musichttp://www.youtube.com/vondelpark</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jon Hopkins, Form By Firelight]]></title>
-    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=9Ae4BxKC7cQ"/>
-    <updated>2013-10-12T20:28:00-07:00</updated>
-    <id>http://colin-scott.github.com/musichttp://www.youtube.com/jon-hopkins</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
