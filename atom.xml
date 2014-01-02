@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.com/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/music/"/>
-  <updated>2013-12-29T20:13:25-08:00</updated>
+  <updated>2014-01-02T10:03:56-08:00</updated>
   <id>http://colin-scott.github.com/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Crosby, Stills, and Nash, Lady of the Island]]></title>
+    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=2tBU2bteha8"/>
+    <updated>2014-01-02T10:03:00-08:00</updated>
+    <id>http://colin-scott.github.com/musichttp://www.youtube.com/crosby</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fort Romeau, Boiler Room '13]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=GWxEOqSHeCg"/>
     <updated>2013-10-21T19:08:00-07:00</updated>
     <id>http://colin-scott.github.com/musichttp://www.youtube.com/clark</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bibio, Fire Ant]]></title>
-    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=jHcpJwjrIIY"/>
-    <updated>2013-10-16T19:16:00-07:00</updated>
-    <id>http://colin-scott.github.com/musichttp://www.youtube.com/bibio</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
