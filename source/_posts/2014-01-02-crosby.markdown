@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=2tBU2bteha8
+title: "Crosby, Stills, and Nash, Lady of the Island"
+date: 2014-01-02 10:03
+comments: true
+categories: 
+---
