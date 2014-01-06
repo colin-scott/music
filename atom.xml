@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.com/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/music/"/>
-  <updated>2014-01-02T10:03:56-08:00</updated>
+  <updated>2014-01-06T11:27:36-08:00</updated>
   <id>http://colin-scott.github.com/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Space Dimension Controller, The Love Quadrant]]></title>
+    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=e6Vq9E-p3xM"/>
+    <updated>2014-01-06T11:27:00-08:00</updated>
+    <id>http://colin-scott.github.com/musichttp://www.youtube.com/space-dimension-controller</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Crosby, Stills, and Nash, Lady of the Island]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=lbHx9FuYwNo"/>
     <updated>2013-10-22T12:47:00-07:00</updated>
     <id>http://colin-scott.github.com/musichttp://www.youtube.com/lusine</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Clark, Henderson Wrench]]></title>
-    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=GWxEOqSHeCg"/>
-    <updated>2013-10-21T19:08:00-07:00</updated>
-    <id>http://colin-scott.github.com/musichttp://www.youtube.com/clark</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
