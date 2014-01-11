@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.com/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/music/"/>
-  <updated>2014-01-09T13:24:32-08:00</updated>
+  <updated>2014-01-10T16:36:05-08:00</updated>
   <id>http://colin-scott.github.com/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ultraísta, Gold Dayzz]]></title>
+    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=4EvKmU_mZnA"/>
+    <updated>2014-01-10T16:35:00-08:00</updated>
+    <id>http://colin-scott.github.com/musichttp://www.youtube.com/ultraista</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fort Romeau, Jack Rollin']]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=AJITn8jn3wA"/>
     <updated>2013-10-31T13:47:00-07:00</updated>
     <id>http://colin-scott.github.com/musichttp://www.youtube.com/max-richter</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[M.A.N.D.Y., Home Again]]></title>
-    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=81RiUy-TEs8"/>
-    <updated>2013-10-30T18:14:00-07:00</updated>
-    <id>http://colin-scott.github.com/musichttp://www.youtube.com/m-dot-a-n-dot-d-y</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
