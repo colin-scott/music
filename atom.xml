@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.com/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/music/"/>
-  <updated>2014-01-11T18:56:49-08:00</updated>
+  <updated>2014-01-12T22:14:05-08:00</updated>
   <id>http://colin-scott.github.com/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Alt-J, Something Good]]></title>
+    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=aNYjOVo5IEw"/>
+    <updated>2014-01-12T22:13:00-08:00</updated>
+    <id>http://colin-scott.github.com/musichttp://www.youtube.com/alt-j</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Crosby Stills and Nash, Camera]]></title>
@@ -179,15 +188,6 @@
     <title type="html"><![CDATA[Nicolas Jaar, Live at Sonar Lab]]></title>
     <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=MmtuQ-k7XJ4"/>
     <updated>2013-11-18T13:35:00-08:00</updated>
-    <id>http://colin-scott.github.com/musichttp://www.youtube.com/nicolas-jaar</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nicolas Jaar, Boiler Room NYC]]></title>
-    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=IUjWumGIqe8#t=460"/>
-    <updated>2013-11-16T17:58:00-08:00</updated>
     <id>http://colin-scott.github.com/musichttp://www.youtube.com/nicolas-jaar</id>
     <content type="html"><![CDATA[
 ]]></content>
