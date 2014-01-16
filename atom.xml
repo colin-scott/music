@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.com/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/music/"/>
-  <updated>2014-01-12T22:14:05-08:00</updated>
+  <updated>2014-01-16T10:23:39-08:00</updated>
   <id>http://colin-scott.github.com/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Feist, Caught A Long Wind]]></title>
+    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=Q1Ywmjn_1FU"/>
+    <updated>2014-01-16T10:23:00-08:00</updated>
+    <id>http://colin-scott.github.com/musichttp://www.youtube.com/feist</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Alt-J, Something Good]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=wnpVWvCDINU"/>
     <updated>2013-11-18T15:03:00-08:00</updated>
     <id>http://colin-scott.github.com/musichttp://www.youtube.com/nicolas-jaar2</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nicolas Jaar, Live at Sonar Lab]]></title>
-    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=MmtuQ-k7XJ4"/>
-    <updated>2013-11-18T13:35:00-08:00</updated>
-    <id>http://colin-scott.github.com/musichttp://www.youtube.com/nicolas-jaar</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
