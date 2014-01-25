@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.com/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/music/"/>
-  <updated>2014-01-23T16:45:16-08:00</updated>
+  <updated>2014-01-24T20:00:15-08:00</updated>
   <id>http://colin-scott.github.com/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Le Fins, Fetch]]></title>
+    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=DlkjFHk_9ms"/>
+    <updated>2014-01-24T19:59:00-08:00</updated>
+    <id>http://colin-scott.github.com/musichttp://www.youtube.com/fetch</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Scuba, Before]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=LVHGfVdbi9o"/>
     <updated>2013-11-24T16:41:00-08:00</updated>
     <id>http://colin-scott.github.com/musichttp://www.youtube.com/extra-doll</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Animal Collective, Leaf House]]></title>
-    <link href="http://colin-scott.github.com/musichttps://www.youtube.com/watch?v=ylrmS6ayKv8#t=53"/>
-    <updated>2013-11-19T18:03:00-08:00</updated>
-    <id>http://colin-scott.github.com/musichttps://www.youtube.com/animal-collective</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
