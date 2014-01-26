@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: http://www.youtube.com/watch?v=tYov8M0Hd-s
+title: "Kiln, Rust Dusk"
+date: 2014-01-26 15:35
+comments: true
+categories: 
+---
