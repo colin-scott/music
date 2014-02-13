@@ -83,7 +83,7 @@ gflags.DEFINE_enum('logging_level', 'ERROR',
 gflags.DEFINE_string('video_id', None,
                      'The YouTube hashcode for the video to be added')
 
-gflags.DEFINE_string('playlist_id', 'PLnUaekj3U9eD9Umdi7N5Ju_43j8QYKvdj',
+gflags.DEFINE_string('playlist_id', 'PLnUaekj3U9eAdGkoxaf4Nh1cJpndJVxwP',
                      'The YouTube hashcode for the playlist to be added to ')
 
 def main(argv):
