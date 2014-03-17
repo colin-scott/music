@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.com/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/music/"/>
-  <updated>2014-03-14T13:31:51-07:00</updated>
+  <updated>2014-03-17T12:27:19-07:00</updated>
   <id>http://colin-scott.github.com/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fort Romeau, I Knew]]></title>
+    <link href="http://colin-scott.github.com/musichttps://www.youtube.com/watch?v=kKnuZiIFhT8"/>
+    <updated>2014-03-17T12:27:00-07:00</updated>
+    <id>http://colin-scott.github.com/musichttps://www.youtube.com/fort-romeau</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Cinematic Orchestra, All Things To All Men]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=7FDGY0UCoTc"/>
     <updated>2013-12-29T20:13:00-08:00</updated>
     <id>http://colin-scott.github.com/musichttp://www.youtube.com/fort-romeau</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[John Talabot, Boiler Room '13]]></title>
-    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=g1BYw__Q0Jg"/>
-    <updated>2013-12-29T16:44:00-08:00</updated>
-    <id>http://colin-scott.github.com/musichttp://www.youtube.com/john-talabot</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
