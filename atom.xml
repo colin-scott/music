@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.com/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/music/"/>
-  <updated>2014-03-22T22:32:09-07:00</updated>
+  <updated>2014-03-23T11:55:40-07:00</updated>
   <id>http://colin-scott.github.com/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blue States, Heroe's Elegy]]></title>
+    <link href="http://colin-scott.github.com/musichttps://www.youtube.com/watch?v=CX4u8RLf6Nc&feature=kp"/>
+    <updated>2014-03-23T11:55:00-07:00</updated>
+    <id>http://colin-scott.github.com/musichttps://www.youtube.com/blue-states</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dolle Jolle, Balearic Incarnation (Todd Terje Remix)]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=C6be18GacTs"/>
     <updated>2014-01-07T12:52:00-08:00</updated>
     <id>http://colin-scott.github.com/musichttp://www.youtube.com/the-sight-below</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Space Dimension Controller, The Love Quadrant]]></title>
-    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=e6Vq9E-p3xM"/>
-    <updated>2014-01-06T11:27:00-08:00</updated>
-    <id>http://colin-scott.github.com/musichttp://www.youtube.com/space-dimension-controller</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
