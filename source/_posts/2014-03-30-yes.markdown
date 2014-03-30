@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=v5iBnZ63uh4
+title: "Yes, Starship Trooper"
+date: 2014-03-30 11:29
+comments: true
+categories: 
+---
