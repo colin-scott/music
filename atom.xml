@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.com/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/music/"/>
-  <updated>2014-04-12T14:53:31-07:00</updated>
+  <updated>2014-04-12T16:22:00-07:00</updated>
   <id>http://colin-scott.github.com/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Alif Tree, Rain River]]></title>
+    <link href="http://colin-scott.github.com/musichttps://www.youtube.com/watch?v=7--NrmQ5ggE&feature=kp"/>
+    <updated>2014-04-12T16:21:00-07:00</updated>
+    <id>http://colin-scott.github.com/musichttps://www.youtube.com/alif-tree</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Amon Tobin, Deo]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=jkWWJ9W5300"/>
     <updated>2014-01-10T16:46:00-08:00</updated>
     <id>http://colin-scott.github.com/musichttp://www.youtube.com/lapalux</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ultraísta, Gold Dayzz]]></title>
-    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=4EvKmU_mZnA"/>
-    <updated>2014-01-10T16:35:00-08:00</updated>
-    <id>http://colin-scott.github.com/musichttp://www.youtube.com/ultraista</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
