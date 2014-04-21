@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.com/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.com/music/"/>
-  <updated>2014-04-17T13:52:12-07:00</updated>
+  <updated>2014-04-20T17:39:45-07:00</updated>
   <id>http://colin-scott.github.com/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dustin O'Halloran, We Move Lightly]]></title>
+    <link href="http://colin-scott.github.com/musichttps://www.youtube.com/watch?v=yveWjPz0O18"/>
+    <updated>2014-04-20T17:39:00-07:00</updated>
+    <id>http://colin-scott.github.com/musichttps://www.youtube.com/dustin-ohalloran</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ólafur Arnalds, Fyrsta]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=ou69PIrTQjY"/>
     <updated>2014-01-11T18:56:00-08:00</updated>
     <id>http://colin-scott.github.com/musichttp://www.youtube.com/crosby-stills-and-nash</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[FaltyDL, She Sleeps]]></title>
-    <link href="http://colin-scott.github.com/musichttp://www.youtube.com/watch?v=TVOBCXrTMPA&noredirect=1"/>
-    <updated>2014-01-11T12:31:00-08:00</updated>
-    <id>http://colin-scott.github.com/musichttp://www.youtube.com/faltydl</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
