@@ -9,7 +9,7 @@ ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
-deploy_default = "rsync"
+deploy_default = "push"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
@@ -144,7 +144,7 @@ task :new_post, :title do |t, args|
   if url =~ /youtube/i
     video_id = parse_youtube_video_id filename
     system "youtube_api/add_video.py --video_id=#{video_id}"
-    system %{ssh rcs@c5.millennium.berkeley.edu "cd youtube; /usr/local/bin/youtube-dl -t --audio-quality 0 --extract-audio '#{url}'"}
+    system %{ssh rcs@c5.millennium.berkeley.edu "cd youtube; youtube-dl -t --audio-quality 0 --extract-audio '#{url}'"}
     system "scp rcs@c5.millennium.berkeley.edu:~/youtube/*#{video_id}* ~/Music/youtube"
   end
 end
