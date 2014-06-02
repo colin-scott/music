@@ -145,7 +145,9 @@ task :new_post, :title do |t, args|
     video_id = parse_youtube_video_id filename
     system "youtube_api/add_video.py --video_id=#{video_id}"
     system %{ssh rcs@c5.millennium.berkeley.edu "cd youtube; youtube-dl -t --audio-quality 0 --extract-audio '#{url}'"}
-    system "scp rcs@c5.millennium.berkeley.edu:~/youtube/*#{video_id}* ~/Music/youtube"
+    Dir.chdir "/Users/cs/Music/youtube" do
+      system "rsync -v rcs@c5.millennium.berkeley.edu:~/youtube/* ."
+    end
   end
 end
 
