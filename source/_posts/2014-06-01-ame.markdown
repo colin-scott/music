@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=4DcnRvjXSQk&feature=kp
+title: "Ame, Doldrums"
+date: 2014-06-01 18:19:21 -0700
+comments: true
+categories: 
+---
