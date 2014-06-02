@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-06-01T18:13:23-07:00</updated>
+  <updated>2014-06-01T18:16:00-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Quantic, Prelude to Happening]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=qbEmKmwVHlM&feature=kp"/>
+    <updated>2014-06-01T18:15:49-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/quantic</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Benn Jordan, These Solemn Stars]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttp://www.youtube.com/watch?v=u37RF5xKNq8"/>
     <updated>2014-01-26T21:46:00-08:00</updated>
     <id>http://colin-scott.github.io/musichttp://www.youtube.com/cannonball-adderley</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Kiln, Rust Dusk]]></title>
-    <link href="http://colin-scott.github.io/musichttp://www.youtube.com/watch?v=tYov8M0Hd-s"/>
-    <updated>2014-01-26T15:35:00-08:00</updated>
-    <id>http://colin-scott.github.io/musichttp://www.youtube.com/kiln</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
