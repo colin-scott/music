@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=aQpDAiXEJIU&feature=kp
+title: "Lukid, Veto"
+date: 2014-06-01 18:22:06 -0700
+comments: true
+categories: 
+---
