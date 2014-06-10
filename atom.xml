@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-06-08T19:03:08-07:00</updated>
+  <updated>2014-06-09T21:39:17-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fort Romeau, Boiler Room Set, May 2014]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=NFjLJKwjCDk"/>
+    <updated>2014-06-09T21:38:52-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/fort-romeau</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mux Pool, Live at 7-11]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=kKnuZiIFhT8"/>
     <updated>2014-03-17T12:27:00-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/fort-romeau</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Cinematic Orchestra, All Things To All Men]]></title>
-    <link href="http://colin-scott.github.io/musichttp://www.youtube.com/watch?v=5cQTes75GKU"/>
-    <updated>2014-03-05T16:20:00-08:00</updated>
-    <id>http://colin-scott.github.io/musichttp://www.youtube.com/the-cinematic-orchestra</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
