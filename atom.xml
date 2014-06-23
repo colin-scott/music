@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-06-22T20:50:22-07:00</updated>
+  <updated>2014-06-22T20:51:42-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[John Roberts, Palace]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=jalyuXa5Oe0&feature=kp"/>
+    <updated>2014-06-22T20:51:33-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/john-roberts</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mux Mool, Brothers]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=tH4JAFYczwA"/>
     <updated>2014-03-23T20:54:00-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/quantic</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Blue States, Heroe's Elegy]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=CX4u8RLf6Nc&feature=kp"/>
-    <updated>2014-03-23T11:55:00-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/blue-states</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
