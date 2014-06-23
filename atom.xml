@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-06-22T20:48:19-07:00</updated>
+  <updated>2014-06-22T20:50:22-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mux Mool, Brothers]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=VjKyNxhm7Hg&feature=kp"/>
+    <updated>2014-06-22T20:49:40-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/mux-mool</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Max Richter, Autumn Music 1]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=CX4u8RLf6Nc&feature=kp"/>
     <updated>2014-03-23T11:55:00-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/blue-states</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dolle Jolle, Balearic Incarnation (Todd Terje Remix)]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=LVHGfVdbi9o"/>
-    <updated>2014-03-22T22:31:00-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/dolle-jolle</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
