@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-07-13T20:43:04-07:00</updated>
+  <updated>2014-07-13T20:49:51-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Gang Colours, To Repel Ghosts]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=4_b_N8-R3oc&feature=kp"/>
+    <updated>2014-07-13T20:49:16-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/gang-colours</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Floating Points, Montparnasse]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7-cvlWtc9Q8&feature=kp"/>
     <updated>2014-04-12T14:53:00-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/amon-tobin</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Yes, Starship Trooper]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=v5iBnZ63uh4"/>
-    <updated>2014-03-30T11:29:00-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/yes</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
