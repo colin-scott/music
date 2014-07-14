@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-07-13T20:52:53-07:00</updated>
+  <updated>2014-07-13T22:13:03-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Khruangbin, A Calf Born In Winter]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=dZL-i3ghxxk"/>
+    <updated>2014-07-13T22:12:46-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/khruangbin</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fort Romeau, Some Of Us Want For Nothing]]></title>
@@ -86,7 +95,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Mux Pool, Live at 7-11]]></title>
+    <title type="html"><![CDATA[Mux Mool, Live at 7-11]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ILfLovCRUyg"/>
     <updated>2014-06-08T19:02:54-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/mux-pool</id>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=dj7zWQYEw7U&feature=kp"/>
     <updated>2014-04-17T13:50:00-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/olafur-arnalds</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Alif Tree, Rain River]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7--NrmQ5ggE&feature=kp"/>
-    <updated>2014-04-12T16:21:00-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/alif-tree</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
