@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-07-13T22:13:03-07:00</updated>
+  <updated>2014-07-13T22:36:40-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Andrew Ashong & Theo Parrish, Flowers]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7nKzRhhMlaQ"/>
+    <updated>2014-07-13T22:36:22-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/andrew-ashong</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Khruangbin, A Calf Born In Winter]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=yveWjPz0O18"/>
     <updated>2014-04-20T17:39:00-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/dustin-ohalloran</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ólafur Arnalds, Fyrsta]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=dj7zWQYEw7U&feature=kp"/>
-    <updated>2014-04-17T13:50:00-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/olafur-arnalds</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
