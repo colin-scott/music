@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-07-13T22:36:40-07:00</updated>
+  <updated>2014-07-23T08:45:20-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tor, Nomad]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=GgjGrzE9kxo"/>
+    <updated>2014-07-23T08:45:10-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/tor</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Andrew Ashong & Theo Parrish, Flowers]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=twJdgMW2xYA&feature=kp"/>
     <updated>2014-04-22T14:11:00-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/arms-and-sleepers</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dustin O'Halloran, We Move Lightly]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=yveWjPz0O18"/>
-    <updated>2014-04-20T17:39:00-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/dustin-ohalloran</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
