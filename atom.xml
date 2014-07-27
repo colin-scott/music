@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-07-23T08:45:20-07:00</updated>
+  <updated>2014-07-27T09:51:05-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Letherette, Gas Stations And Restaurants]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=sXUtOicQbAY"/>
+    <updated>2014-07-27T09:50:43-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/letherette</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tor, Nomad]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=_st8Too39wo"/>
     <updated>2014-05-11T11:33:51-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/kyson</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Arms and Sleepers - Airport Blues]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=twJdgMW2xYA&feature=kp"/>
-    <updated>2014-04-22T14:11:00-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/arms-and-sleepers</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
