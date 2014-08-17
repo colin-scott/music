@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-08-17T14:59:37-07:00</updated>
+  <updated>2014-08-17T15:00:22-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bersain Quartett, Perlen, Honig oder Untergang]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=b_mFtvIu47I"/>
+    <updated>2014-08-17T15:00:11-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/bersain-quartett</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Greg Haines, So It Goes]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=P_npIlHq9QU"/>
     <updated>2014-06-01T18:13:07-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/benn-jordan</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nick Mulvey, Meet Me There]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=TVNRDmhwuPw"/>
-    <updated>2014-05-26T21:29:15-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nick-mulvey</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
