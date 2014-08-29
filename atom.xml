@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-08-29T13:59:28-07:00</updated>
+  <updated>2014-08-29T14:00:37-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Greg Haines, Habenero]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=avOngVnWpJU"/>
+    <updated>2014-08-29T14:00:20-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/greg-haines</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nils Frahm, Toilet Brushes]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=4DcnRvjXSQk&feature=kp"/>
     <updated>2014-06-01T18:19:21-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/ame</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Quantic, Prelude to Happening]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=qbEmKmwVHlM&feature=kp"/>
-    <updated>2014-06-01T18:15:49-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/quantic</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
