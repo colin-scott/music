@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-09-04T17:28:28-04:00</updated>
+  <updated>2014-09-05T12:24:02-04:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Axel Boman, Son of a Plumber]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=O1Fy7scWsaA"/>
+    <updated>2014-09-05T12:23:43-04:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/axel-boman</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Francis Harris, Lostfound (Original Mix)]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ILfLovCRUyg"/>
     <updated>2014-06-08T22:02:54-04:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/mux-pool</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lukid, Veto]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=aQpDAiXEJIU&feature=kp"/>
-    <updated>2014-06-01T21:22:06-04:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/lukid</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
