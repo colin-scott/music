@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-09-05T12:24:02-04:00</updated>
+  <updated>2014-09-12T13:55:11-06:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -14,9 +14,18 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Portico Quartet, Ruins]]></title>
+    <link href="http://colin-scott.github.io/musichttp://www.youtube.com/watch?v=jQH0GPL33uc"/>
+    <updated>2014-09-12T13:54:58-06:00</updated>
+    <id>http://colin-scott.github.io/musichttp://www.youtube.com/portico-quartet</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Axel Boman, Son of a Plumber]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=O1Fy7scWsaA"/>
-    <updated>2014-09-05T12:23:43-04:00</updated>
+    <updated>2014-09-05T10:23:43-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/axel-boman</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -25,7 +34,7 @@
   <entry>
     <title type="html"><![CDATA[Francis Harris, Lostfound (Original Mix)]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=g2L4vi920jk"/>
-    <updated>2014-09-04T17:27:48-04:00</updated>
+    <updated>2014-09-04T15:27:48-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/francis-harris</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -34,7 +43,7 @@
   <entry>
     <title type="html"><![CDATA[Greg Haines, Habenero]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=avOngVnWpJU"/>
-    <updated>2014-08-29T17:00:20-04:00</updated>
+    <updated>2014-08-29T15:00:20-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/greg-haines</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -43,7 +52,7 @@
   <entry>
     <title type="html"><![CDATA[Nils Frahm, Toilet Brushes]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Aln6DztAsMQ"/>
-    <updated>2014-08-29T16:59:13-04:00</updated>
+    <updated>2014-08-29T14:59:13-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nils-frahm</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -52,7 +61,7 @@
   <entry>
     <title type="html"><![CDATA[Bersain Quartett, Perlen, Honig oder Untergang]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=b_mFtvIu47I"/>
-    <updated>2014-08-17T18:00:11-04:00</updated>
+    <updated>2014-08-17T16:00:11-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/bersain-quartett</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -61,7 +70,7 @@
   <entry>
     <title type="html"><![CDATA[Greg Haines, So It Goes]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=DKCf4Y4Y8IU"/>
-    <updated>2014-08-17T17:59:03-04:00</updated>
+    <updated>2014-08-17T15:59:03-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/greg-haines</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -70,7 +79,7 @@
   <entry>
     <title type="html"><![CDATA[Sylvain Chauveau, Within the Orderly Life]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=sB_FQ4pH9a0"/>
-    <updated>2014-08-17T17:57:49-04:00</updated>
+    <updated>2014-08-17T15:57:49-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/sylvain-chauveau</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -79,7 +88,7 @@
   <entry>
     <title type="html"><![CDATA[Letherette, Gas Stations And Restaurants]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=sXUtOicQbAY"/>
-    <updated>2014-07-27T12:50:43-04:00</updated>
+    <updated>2014-07-27T10:50:43-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/letherette</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -88,7 +97,7 @@
   <entry>
     <title type="html"><![CDATA[Tor, Nomad]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=GgjGrzE9kxo"/>
-    <updated>2014-07-23T11:45:10-04:00</updated>
+    <updated>2014-07-23T09:45:10-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/tor</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -97,7 +106,7 @@
   <entry>
     <title type="html"><![CDATA[Andrew Ashong & Theo Parrish, Flowers]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7nKzRhhMlaQ"/>
-    <updated>2014-07-14T01:36:22-04:00</updated>
+    <updated>2014-07-13T23:36:22-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/andrew-ashong</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -106,7 +115,7 @@
   <entry>
     <title type="html"><![CDATA[Khruangbin, A Calf Born In Winter]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=dZL-i3ghxxk"/>
-    <updated>2014-07-14T01:12:46-04:00</updated>
+    <updated>2014-07-13T23:12:46-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/khruangbin</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -115,7 +124,7 @@
   <entry>
     <title type="html"><![CDATA[Fort Romeau, Some Of Us Want For Nothing]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=bgo96miPnMc"/>
-    <updated>2014-07-13T23:51:11-04:00</updated>
+    <updated>2014-07-13T21:51:11-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/fort-romeau</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -124,7 +133,7 @@
   <entry>
     <title type="html"><![CDATA[Gang Colours, To Repel Ghosts]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=4_b_N8-R3oc&feature=kp"/>
-    <updated>2014-07-13T23:49:16-04:00</updated>
+    <updated>2014-07-13T21:49:16-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/gang-colours</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -133,7 +142,7 @@
   <entry>
     <title type="html"><![CDATA[Floating Points, Montparnasse]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=_nZvNf14yiA"/>
-    <updated>2014-07-13T23:42:20-04:00</updated>
+    <updated>2014-07-13T21:42:20-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/floating-points</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -142,7 +151,7 @@
   <entry>
     <title type="html"><![CDATA[John Roberts, Palace]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=jalyuXa5Oe0&feature=kp"/>
-    <updated>2014-06-22T23:51:33-04:00</updated>
+    <updated>2014-06-22T21:51:33-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/john-roberts</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -151,7 +160,7 @@
   <entry>
     <title type="html"><![CDATA[Mux Mool, Brothers]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=VjKyNxhm7Hg&feature=kp"/>
-    <updated>2014-06-22T23:49:40-04:00</updated>
+    <updated>2014-06-22T21:49:40-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/mux-mool</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -160,7 +169,7 @@
   <entry>
     <title type="html"><![CDATA[Max Richter, Autumn Music 1]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=k6lkYjf1Qm8&feature=kp"/>
-    <updated>2014-06-22T23:48:01-04:00</updated>
+    <updated>2014-06-22T21:48:01-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/max-richter</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -169,7 +178,7 @@
   <entry>
     <title type="html"><![CDATA[TOKiMONSTA, Little Pleasures]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=OjN-HRGmp8Y"/>
-    <updated>2014-06-10T00:42:38-04:00</updated>
+    <updated>2014-06-09T22:42:38-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/tokimonsta</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -178,17 +187,8 @@
   <entry>
     <title type="html"><![CDATA[Fort Romeau, Boiler Room Set, May 2014]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=NFjLJKwjCDk"/>
-    <updated>2014-06-10T00:38:52-04:00</updated>
+    <updated>2014-06-09T22:38:52-06:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/fort-romeau</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Mux Mool, Live at 7-11]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ILfLovCRUyg"/>
-    <updated>2014-06-08T22:02:54-04:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/mux-pool</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
