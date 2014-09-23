@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-09-22T10:24:02-07:00</updated>
+  <updated>2014-09-23T10:33:38-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nils Frahm, Familiar]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=CJrKz1KyWSM"/>
+    <updated>2014-09-23T10:33:31-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nils-frahm</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Letherette, In July Focus]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=k6lkYjf1Qm8&feature=kp"/>
     <updated>2014-06-22T20:48:01-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/max-richter</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TOKiMONSTA, Little Pleasures]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=OjN-HRGmp8Y"/>
-    <updated>2014-06-09T21:42:38-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/tokimonsta</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
