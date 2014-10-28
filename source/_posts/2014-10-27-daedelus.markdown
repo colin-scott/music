@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=G-25zA3aB04
+title: "Daedelus, Pre Munitions"
+date: 2014-10-27 21:16:27 -0700
+comments: true
+categories: 
+---
