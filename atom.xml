@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2014-11-11T16:22:20-08:00</updated>
+  <updated>2014-11-14T15:23:24-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Arms and Sleepers, Rooftops/Lanterns]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=r61yqD3LTqo"/>
+    <updated>2014-11-14T15:23:06-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/arms-and-sleepers</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Daniel Bortz, feat. Nils Corssen - The Misery (Nu & Pauli vs Acid Remix)]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7nKzRhhMlaQ"/>
     <updated>2014-07-13T22:36:22-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/andrew-ashong</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Khruangbin, A Calf Born In Winter]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=dZL-i3ghxxk"/>
-    <updated>2014-07-13T22:12:46-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/khruangbin</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
