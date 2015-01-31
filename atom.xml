@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-01-28T16:46:22-08:00</updated>
+  <updated>2015-01-30T17:02:52-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Maya Jane Coles, Little One]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ILKz0myPAkY"/>
+    <updated>2015-01-30T17:02:20-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/maya-jane-coles</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ta-Ku, Love Lost]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=b_mFtvIu47I"/>
     <updated>2014-08-17T15:00:11-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/bersain-quartett</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Greg Haines, So It Goes]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=DKCf4Y4Y8IU"/>
-    <updated>2014-08-17T14:59:03-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/greg-haines</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
