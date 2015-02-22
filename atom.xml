@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-01-30T17:02:52-08:00</updated>
+  <updated>2015-02-21T18:18:46-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Benjamin Damage, No One]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=-B924_FtWEM"/>
+    <updated>2015-02-21T18:18:37-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/benjamin-damage</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Maya Jane Coles, Little One]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Aln6DztAsMQ"/>
     <updated>2014-08-29T13:59:13-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nils-frahm</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bersain Quartett, Perlen, Honig oder Untergang]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=b_mFtvIu47I"/>
-    <updated>2014-08-17T15:00:11-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/bersain-quartett</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
