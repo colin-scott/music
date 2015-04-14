@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-03-21T10:39:01-07:00</updated>
+  <updated>2015-04-13T21:43:37-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Acid, Basic Instinct]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=kOucrAFX810"/>
+    <updated>2015-04-13T21:43:24-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-acid</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Llorca, The Novel Sound]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttp://www.youtube.com/watch?v=jQH0GPL33uc"/>
     <updated>2014-09-12T12:54:58-07:00</updated>
     <id>http://colin-scott.github.io/musichttp://www.youtube.com/portico-quartet</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Axel Boman, Son of a Plumber]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=O1Fy7scWsaA"/>
-    <updated>2014-09-05T09:23:43-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/axel-boman</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
