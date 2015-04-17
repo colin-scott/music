@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-04-13T21:43:37-07:00</updated>
+  <updated>2015-04-17T11:10:27-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Disclosure BBC Essential Mix]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ddeu_vF9p1s"/>
+    <updated>2015-04-17T11:09:52-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/https-slash-slash-www-dot-youtube-dot-com-slash-watch-v-equals-ddeu-vf9p1s</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Acid, Basic Instinct]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Ti98HXfseXY"/>
     <updated>2014-09-22T10:23:26-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/letherette</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Portico Quartet, Ruins]]></title>
-    <link href="http://colin-scott.github.io/musichttp://www.youtube.com/watch?v=jQH0GPL33uc"/>
-    <updated>2014-09-12T12:54:58-07:00</updated>
-    <id>http://colin-scott.github.io/musichttp://www.youtube.com/portico-quartet</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
