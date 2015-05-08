@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-04-19T13:21:05-07:00</updated>
+  <updated>2015-05-07T17:12:47-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -14,19 +14,19 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Helios, Convivium]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=V9G_jIT4q-A"/>
-    <updated>2015-04-19T13:20:51-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/helios</id>
+    <title type="html"><![CDATA[Gidge, Huldra]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=DZeVti5ow_Y"/>
+    <updated>2015-05-07T17:12:32-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/gidge</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Disclosure BBC Essential Mix]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ddeu_vF9p1s"/>
-    <updated>2015-04-17T11:09:52-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/https-slash-slash-www-dot-youtube-dot-com-slash-watch-v-equals-ddeu-vf9p1s</id>
+    <title type="html"><![CDATA[Helios, Convivium]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=V9G_jIT4q-A"/>
+    <updated>2015-04-19T13:20:51-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/helios</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
