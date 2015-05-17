@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-05-07T17:12:47-07:00</updated>
+  <updated>2015-05-16T19:01:02-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Galimatias, Night Owl]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=iiPg91_Bc_0"/>
+    <updated>2015-05-16T19:00:48-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/galimatias</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Gidge, Huldra]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Tpe4id7cLnU"/>
     <updated>2014-10-21T14:39:23-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/four-tet</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nils Frahm, Familiar]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=CJrKz1KyWSM"/>
-    <updated>2014-09-23T10:33:31-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nils-frahm</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
