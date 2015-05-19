@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-05-18T17:57:59-07:00</updated>
+  <updated>2015-05-18T17:59:50-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tomas Barfod, Mandalay]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=0vcyNx4-4_s"/>
+    <updated>2015-05-18T17:59:24-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/tomas-barfod</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Shuttle358, marche]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=BcZus424KOY"/>
     <updated>2014-11-02T17:57:40-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/swod</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Daedelus, Pre Munitions]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=G-25zA3aB04"/>
-    <updated>2014-10-27T21:16:27-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/daedelus</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
