@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-05-18T17:55:39-07:00</updated>
+  <updated>2015-05-18T17:57:59-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Shuttle358, marche]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=iokXr4k55Gg"/>
+    <updated>2015-05-18T17:57:40-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/shuttle358</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Valentin Stip, Nwia]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=G-25zA3aB04"/>
     <updated>2014-10-27T21:16:27-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/daedelus</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nicolas Jaar, Colomb]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=MXNIGU2AlIY"/>
-    <updated>2014-10-27T21:15:34-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
