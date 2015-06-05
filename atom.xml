@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-05-18T17:59:50-07:00</updated>
+  <updated>2015-06-04T18:15:58-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jungle, Drops]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=gqLyzHBH2As"/>
+    <updated>2015-06-04T18:15:51-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/jungle</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tomas Barfod, Mandalay]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=acoIbhjRo4M"/>
     <updated>2014-11-11T16:21:59-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/daniel-bortz</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Swod, Largo]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=BcZus424KOY"/>
-    <updated>2014-11-02T17:57:40-08:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/swod</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
