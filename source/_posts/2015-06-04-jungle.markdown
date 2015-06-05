@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=gqLyzHBH2As
+title: "Jungle, Drops"
+date: 2015-06-04 18:15:51 -0700
+comments: true
+categories: 
+---
