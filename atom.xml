@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-06-04T18:15:58-07:00</updated>
+  <updated>2015-06-10T17:05:42-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rival Consoles, Recovery (Vessels Remix)]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=kTdh86_4gWI"/>
+    <updated>2015-06-10T17:05:28-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/rival-consoles</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jungle, Drops]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=r61yqD3LTqo"/>
     <updated>2014-11-14T15:23:06-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/arms-and-sleepers</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Daniel Bortz, feat. Nils Corssen - The Misery (Nu & Pauli vs Acid Remix)]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=acoIbhjRo4M"/>
-    <updated>2014-11-11T16:21:59-08:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/daniel-bortz</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
