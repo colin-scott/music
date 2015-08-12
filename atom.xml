@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-08-11T12:39:01-07:00</updated>
+  <updated>2015-08-12T11:40:44-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -14,7 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Valentin Strip]]></title>
+    <title type="html"><![CDATA[Valentin Stip, Correlation]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=0I3CpCMLw-g"/>
+    <updated>2015-08-12T11:39:55-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/valentin-stip</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Valentin Stip, Anytime Will Do]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=mpJla69diQI"/>
     <updated>2015-08-11T12:38:52-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/valentin-strip</id>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=UPLvwsmkZ9I"/>
     <updated>2015-01-28T16:45:40-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Khruangbin, The No. 3]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7DyxCdIFodk"/>
-    <updated>2015-01-16T19:23:37-08:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/khruangbin</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
