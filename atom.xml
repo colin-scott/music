@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-08-12T11:40:44-07:00</updated>
+  <updated>2015-08-12T11:43:17-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Valentin Stip, Angst]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=4RPr0w7q_p8"/>
+    <updated>2015-08-12T11:43:01-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/valentin-stip2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Valentin Stip, Correlation]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ILKz0myPAkY"/>
     <updated>2015-01-30T17:02:20-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/maya-jane-coles</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ta-Ku, Love Lost]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=UPLvwsmkZ9I"/>
-    <updated>2015-01-28T16:45:40-08:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
