@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-08-12T11:43:17-07:00</updated>
+  <updated>2015-08-12T11:46:36-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Valentin Stip, Boiler Room Set]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=1THHvrvAQGk"/>
+    <updated>2015-08-12T11:46:21-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/valentin-stip3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Valentin Stip, Angst]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=-B924_FtWEM"/>
     <updated>2015-02-21T18:18:37-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/benjamin-damage</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Maya Jane Coles, Little One]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ILKz0myPAkY"/>
-    <updated>2015-01-30T17:02:20-08:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/maya-jane-coles</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
