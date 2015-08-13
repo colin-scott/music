@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-08-12T11:46:36-07:00</updated>
+  <updated>2015-08-12T22:13:31-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kiasmos, Burnt]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=bR9-2As-XMk"/>
+    <updated>2015-08-12T22:13:22-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/kiasmos</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Valentin Stip, Boiler Room Set]]></title>
@@ -179,15 +188,6 @@
     <title type="html"><![CDATA[Benjamin Damage, Charlottenburg]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7UdY6NbU-Mc"/>
     <updated>2015-03-08T11:43:15-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/benjamin-damage</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Benjamin Damage, No One]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=-B924_FtWEM"/>
-    <updated>2015-02-21T18:18:37-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/benjamin-damage</id>
     <content type="html"><![CDATA[
 ]]></content>
