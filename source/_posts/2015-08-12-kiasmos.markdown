@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=bR9-2As-XMk
+title: "Kiasmos, Burnt"
+date: 2015-08-12 22:13:22 -0700
+comments: true
+categories: 
+---
