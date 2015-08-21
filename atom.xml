@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-08-13T09:13:25-07:00</updated>
+  <updated>2015-08-21T13:23:51-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Acid Pauli, Boiler Room Set]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=EfZu4BCi644"/>
+    <updated>2015-08-21T13:23:41-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/acid-pauli</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Frank &amp; Tony, Bring the Sun ft. Gry]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=9D_TkgK1JtE"/>
     <updated>2015-03-21T10:38:07-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/llorca</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hundred Waters, Murmurs]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=vo-8Oa2t4Ro"/>
-    <updated>2015-03-10T12:56:19-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/hundred-waters</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
