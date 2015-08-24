@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-08-21T13:23:51-07:00</updated>
+  <updated>2015-08-23T20:15:14-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Maribou State, WallFlower]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=N9z8H2XOZ_U"/>
+    <updated>2015-08-23T20:15:02-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/maribou-state</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Acid Pauli, Boiler Room Set]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=kOucrAFX810"/>
     <updated>2015-04-13T21:43:24-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-acid</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Llorca, The Novel Sound]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=9D_TkgK1JtE"/>
-    <updated>2015-03-21T10:38:07-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/llorca</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
