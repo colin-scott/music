@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-08-23T20:15:14-07:00</updated>
+  <updated>2015-08-25T11:55:28-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tee Mango, Leave You]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=3T9zuzqJvwM"/>
+    <updated>2015-08-25T11:55:18-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/tee-mango</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Maribou State, WallFlower]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=V9G_jIT4q-A"/>
     <updated>2015-04-19T13:20:51-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/helios</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Acid, Basic Instinct]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=kOucrAFX810"/>
-    <updated>2015-04-13T21:43:24-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-acid</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
