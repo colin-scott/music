@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-08-25T11:55:28-07:00</updated>
+  <updated>2015-08-30T20:39:53-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Shlohmo, Rained the Whole Time (Nicolas Jaar Remix)]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=MF3yEa4-vDs"/>
+    <updated>2015-08-30T20:39:25-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/shlohomo</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tee Mango, Leave You]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=DZeVti5ow_Y"/>
     <updated>2015-05-07T17:12:32-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/gidge</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Helios, Convivium]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=V9G_jIT4q-A"/>
-    <updated>2015-04-19T13:20:51-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/helios</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
