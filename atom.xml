@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-08-30T20:39:53-07:00</updated>
+  <updated>2015-09-03T17:23:49-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dauwd, Acireams]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=yKCh9fgsUIA"/>
+    <updated>2015-09-03T17:23:33-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/dauwd</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Shlohmo, Rained the Whole Time (Nicolas Jaar Remix)]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=iiPg91_Bc_0"/>
     <updated>2015-05-16T19:00:48-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/galimatias</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Gidge, Huldra]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=DZeVti5ow_Y"/>
-    <updated>2015-05-07T17:12:32-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/gidge</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
