@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-09-17T18:43:23-07:00</updated>
+  <updated>2015-09-17T19:23:34-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Genius of Time, Same Old Place]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=1mSXwg3eKes"/>
+    <updated>2015-09-17T19:23:22-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/genius-of-time2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Genius of Time, Juno Jam]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=iokXr4k55Gg"/>
     <updated>2015-05-18T17:57:40-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/shuttle358</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Valentin Stip, Nwia]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=YU30UxC25Gk"/>
-    <updated>2015-05-18T17:55:26-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/valentin-stip</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
