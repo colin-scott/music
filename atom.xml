@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-09-07T15:26:58-07:00</updated>
+  <updated>2015-09-17T18:43:23-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Genius of Time, Juno Jam]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=zwCQ84OSsP8"/>
+    <updated>2015-09-17T18:43:12-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/genius-of-time</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Heralds of Change, Part of the World]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=YU30UxC25Gk"/>
     <updated>2015-05-18T17:55:26-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/valentin-stip</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Galimatias, Ocean Floor Kisses]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=re-YrW3ujGI"/>
-    <updated>2015-05-18T17:06:04-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/galimatias</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
