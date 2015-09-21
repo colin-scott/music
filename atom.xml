@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-09-21T13:44:21-07:00</updated>
+  <updated>2015-09-21T14:02:54-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Yosi Horikawa, Boiler Room Set]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=VzWFuSi87lM"/>
+    <updated>2015-09-21T14:02:42-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/yosi-horikawa2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Yosi Horikawa, Stars]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=gqLyzHBH2As"/>
     <updated>2015-06-04T18:15:51-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/jungle</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tomas Barfod, Mandalay]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=0vcyNx4-4_s"/>
-    <updated>2015-05-18T17:59:24-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/tomas-barfod</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
