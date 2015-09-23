@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-09-21T14:02:54-07:00</updated>
+  <updated>2015-09-23T00:07:48-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Choice, Love Thang (Genius of Time Re-Edit)]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ex9iMQynXaU"/>
+    <updated>2015-09-23T00:07:21-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/genius-of-time</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Yosi Horikawa, Boiler Room Set]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=kTdh86_4gWI"/>
     <updated>2015-06-10T17:05:28-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/rival-consoles</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jungle, Drops]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=gqLyzHBH2As"/>
-    <updated>2015-06-04T18:15:51-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/jungle</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
