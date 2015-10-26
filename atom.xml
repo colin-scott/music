@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-10-25T19:08:48-07:00</updated>
+  <updated>2015-10-25T19:10:35-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Acid Pauli, Eulogy for Eunice]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=N2rJgTs1TiQ"/>
+    <updated>2015-10-25T19:10:18-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/acid-pauli</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Acid, Veda]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=mpJla69diQI"/>
     <updated>2015-08-11T12:38:52-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/valentin-strip</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Leon Vynehall]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=LLDoze4eBjc"/>
-    <updated>2015-08-05T20:33:51-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/leon-vynehall</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
