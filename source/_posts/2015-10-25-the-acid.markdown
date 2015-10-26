@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=Q_St4CYNic8
+title: "The Acid, Veda"
+date: 2015-10-25 19:08:41 -0700
+comments: true
+categories: 
+---
