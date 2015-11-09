@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-11-08T17:22:37-08:00</updated>
+  <updated>2015-11-08T21:10:36-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nicolas Jaar, Our World]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=j8WNGSIvt0I"/>
+    <updated>2015-11-08T21:10:20-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Acid Pauli, Eulogy for Eunice]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=0I3CpCMLw-g"/>
     <updated>2015-08-12T11:39:55-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/valentin-stip</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Valentin Stip, Anytime Will Do]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=mpJla69diQI"/>
-    <updated>2015-08-11T12:38:52-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/valentin-strip</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
