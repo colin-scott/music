@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-11-08T22:27:07-08:00</updated>
+  <updated>2015-11-12T14:00:22-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[David August, Boiler Room Set]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=mRfwdJx0NDE"/>
+    <updated>2015-11-12T14:00:13-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/david-august</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nicolas Jaar, Our World]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=4RPr0w7q_p8"/>
     <updated>2015-08-12T11:43:01-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/valentin-stip2</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Valentin Stip, Correlation]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=0I3CpCMLw-g"/>
-    <updated>2015-08-12T11:39:55-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/valentin-stip</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
