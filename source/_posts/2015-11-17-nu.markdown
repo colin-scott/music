@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=umS1Q_2wcpM
+title: "Nu, Earth"
+date: 2015-11-17 21:16:14 -0800
+comments: true
+categories: 
+---
