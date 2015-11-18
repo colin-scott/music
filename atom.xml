@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-11-13T12:31:22-08:00</updated>
+  <updated>2015-11-17T21:16:35-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nu, Earth]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=umS1Q_2wcpM"/>
+    <updated>2015-11-17T21:16:14-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Titeknots, Wordy]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=I5NCQU6vyuM"/>
     <updated>2015-08-13T09:13:08-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/frank-and-tony</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Kiasmos, Burnt]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=bR9-2As-XMk"/>
-    <updated>2015-08-12T22:13:22-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/kiasmos</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
