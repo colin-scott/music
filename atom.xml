@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-11-24T15:36:03-08:00</updated>
+  <updated>2015-12-05T17:14:58-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Four Tet, Lion (Jamie XX remix)]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7kZbisE63bY"/>
+    <updated>2015-12-05T17:14:38-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/four-tet</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Frank &amp; Tony, Boiler Room Set]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=3T9zuzqJvwM"/>
     <updated>2015-08-25T11:55:18-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/tee-mango</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Maribou State, WallFlower]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=N9z8H2XOZ_U"/>
-    <updated>2015-08-23T20:15:02-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/maribou-state</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
