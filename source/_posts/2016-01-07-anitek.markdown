@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=lIkWgsPTLzg
+title: "Anitek, Cynical Beings"
+date: 2016-01-07 12:36:39 -0800
+comments: true
+categories: 
+---
