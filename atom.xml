@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2015-12-24T21:07:39-08:00</updated>
+  <updated>2016-01-07T12:36:49-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Anitek, Cynical Beings]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=lIkWgsPTLzg"/>
+    <updated>2016-01-07T12:36:39-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/anitek</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bonobo, The Shark]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=yKCh9fgsUIA"/>
     <updated>2015-09-03T17:23:33-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/dauwd</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Shlohmo, Rained the Whole Time (Nicolas Jaar Remix)]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=MF3yEa4-vDs"/>
-    <updated>2015-08-30T20:39:25-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/shlohomo</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
