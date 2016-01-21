@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-01-21T09:52:27-08:00</updated>
+  <updated>2016-01-21T12:02:48-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Krispaglia, Instant Rudament (Laolo Remix)]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=E7Ks0wSpdwM"/>
+    <updated>2016-01-21T12:02:29-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/krispaglia</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Gustavo Santaolalla, Deportation/Iguazu]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=zwCQ84OSsP8"/>
     <updated>2015-09-17T18:43:12-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/genius-of-time</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Heralds of Change, Part of the World]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=SHdT3KV0vME"/>
-    <updated>2015-09-07T15:26:12-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/heralds-of-change</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
