@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-01-21T12:02:48-08:00</updated>
+  <updated>2016-01-27T14:14:41-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Naomi, Anybody Here]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=nL8-uc500k4"/>
+    <updated>2016-01-27T14:14:29-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/naomi</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Krispaglia, Instant Rudament (Laolo Remix)]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=1mSXwg3eKes"/>
     <updated>2015-09-17T19:23:22-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/genius-of-time2</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Genius of Time, Juno Jam]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=zwCQ84OSsP8"/>
-    <updated>2015-09-17T18:43:12-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/genius-of-time</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
