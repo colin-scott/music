@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-01-31T11:59:18-08:00</updated>
+  <updated>2016-02-06T13:27:37-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Axel Boman, 1979]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=sdaTNMOb1eI"/>
+    <updated>2016-02-06T13:27:20-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/axel-boman</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Forest Swords, You Will Never Learn]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=VzWFuSi87lM"/>
     <updated>2015-09-21T14:02:42-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/yosi-horikawa2</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Yosi Horikawa, Stars]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7oh4tPsfa40"/>
-    <updated>2015-09-21T13:44:11-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/yosi-horikawa</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
