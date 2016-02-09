@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-02-06T13:27:37-08:00</updated>
+  <updated>2016-02-08T21:19:07-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Radiohead, Bloom (Jamie XX Rework)]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=fMnh5Tn8aeM"/>
+    <updated>2016-02-08T21:18:53-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/radiohead</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Axel Boman, 1979]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ex9iMQynXaU"/>
     <updated>2015-09-23T00:07:21-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/genius-of-time</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Yosi Horikawa, Boiler Room Set]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=VzWFuSi87lM"/>
-    <updated>2015-09-21T14:02:42-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/yosi-horikawa2</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
