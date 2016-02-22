@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-02-22T08:46:35-08:00</updated>
+  <updated>2016-02-22T08:48:02-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Forest Mighty Black, Gold Dust Afternoon]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=tidMUvYFT3o"/>
+    <updated>2016-02-22T08:47:48-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/a-forest-mighty-black</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Gentleman Losers, Gold Dust Afternoon]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=N2rJgTs1TiQ"/>
     <updated>2015-10-25T19:10:18-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/acid-pauli</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Acid, Veda]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Q_St4CYNic8"/>
-    <updated>2015-10-25T19:08:41-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-acid</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
