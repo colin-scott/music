@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-02-14T11:47:34-08:00</updated>
+  <updated>2016-02-22T08:46:35-08:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Gentleman Losers, Gold Dust Afternoon]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=KwPk3T_J2c0"/>
+    <updated>2016-02-22T08:46:17-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-gentleman-losers</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Seals &amp; Croft, Summer Breeze]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Q_St4CYNic8"/>
     <updated>2015-10-25T19:08:41-07:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-acid</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Douglas Dare, Lungful]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=brebCVE209g"/>
-    <updated>2015-10-25T19:06:03-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/douglas-dare</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
