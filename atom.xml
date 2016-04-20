@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-02-22T10:07:22-08:00</updated>
+  <updated>2016-04-19T23:35:56-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[H.O.S.H., Antonelli Screaming (Steve Bug Remix)]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Cq55VCRBSCw"/>
+    <updated>2016-04-19T23:35:44-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/h-dot-o-s-dot-h</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Gentleman Losers, Silver Water Ripples]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=4dMAY5tm4cM"/>
+    <updated>2016-03-10T10:05:53-08:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-gentleman-losers</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Forest Mighty Black, Little Princess]]></title>
@@ -171,24 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=mRfwdJx0NDE"/>
     <updated>2015-11-12T14:00:13-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/david-august</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nicolas Jaar, Our World]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=j8WNGSIvt0I"/>
-    <updated>2015-11-08T21:10:20-08:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar3</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Acid Pauli, Eulogy for Eunice]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=N2rJgTs1TiQ"/>
-    <updated>2015-10-25T19:10:18-07:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/acid-pauli</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
