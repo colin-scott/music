@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=QUOdbBdm4Ro
+title: "Stev, Bamboo Delays"
+date: 2016-06-02 15:34:16 -0700
+comments: true
+categories: 
+---
