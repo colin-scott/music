@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-06-02T15:34:38-07:00</updated>
+  <updated>2016-06-02T15:35:42-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Beacon, Into the Night]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Oy1QyztKVPY"/>
+    <updated>2016-06-02T15:35:30-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/beacon</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Stev, Bamboo Delays]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=umS1Q_2wcpM"/>
     <updated>2015-11-17T21:16:14-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Titeknots, Wordy]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=hXtjdOHU4i0"/>
-    <updated>2015-11-13T12:31:13-08:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/titeknots</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
