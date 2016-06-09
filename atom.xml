@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-06-02T15:36:44-07:00</updated>
+  <updated>2016-06-09T15:59:14-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jamie XX, Far Nearer]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=BFeTNqfNthU"/>
+    <updated>2016-06-09T15:59:05-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/jamie-xx</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Darius, S/ash]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=9x1jJ5FdTso"/>
     <updated>2015-11-24T15:35:43-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/frank-and-tony</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Mount Kimbie, Fall Out]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=sZUQMX_m1Zg"/>
-    <updated>2015-11-20T14:53:22-08:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/mount-kimbie</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
