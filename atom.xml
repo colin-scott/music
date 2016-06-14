@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-06-13T17:06:57-07:00</updated>
+  <updated>2016-06-13T20:47:02-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nu, Lluvia Blanca]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=-ZidessNoLo"/>
+    <updated>2016-06-13T20:46:47-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nu, Man O To]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ke76JBSJz-Y"/>
     <updated>2015-12-24T21:07:25-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/bonobo</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Four Tet, Lion (Jamie XX remix)]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7kZbisE63bY"/>
-    <updated>2015-12-05T17:14:38-08:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/four-tet</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
