@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=KsMEBEcxzYA
+title: "Nu, Man O To"
+date: 2016-06-13 17:06:47 -0700
+comments: true
+categories: 
+---
