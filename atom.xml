@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-06-14T15:59:53-07:00</updated>
+  <updated>2016-07-20T22:55:01-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nu, Sol]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=GhDNdIkhwPk"/>
+    <updated>2016-07-20T22:54:41-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nu, SAGA Chapter One]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=E4eWnA1gUuM"/>
     <updated>2016-01-21T09:52:07-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/gustavo-santaolalla</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Anitek, Cynical Beings]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=lIkWgsPTLzg"/>
-    <updated>2016-01-07T12:36:39-08:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/anitek</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
