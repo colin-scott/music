@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-07-20T22:55:01-07:00</updated>
+  <updated>2016-07-20T23:29:02-07:00</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nu, Four Seasons]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=2Z0OJDhTpKU"/>
+    <updated>2016-07-20T23:27:44-07:00</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nu, Sol]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=E7Ks0wSpdwM"/>
     <updated>2016-01-21T12:02:29-08:00</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/krispaglia</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Gustavo Santaolalla, Deportation/Iguazu]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=E4eWnA1gUuM"/>
-    <updated>2016-01-21T09:52:07-08:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/gustavo-santaolalla</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
