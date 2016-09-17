@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-07-20T23:29:02-07:00</updated>
+  <updated>2016-09-17T17:06:07+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -14,9 +14,18 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Dark Sky, Voices]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=_yYb58FKcmQ"/>
+    <updated>2016-09-17T17:05:46+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/dark-sky</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Nu, Four Seasons]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=2Z0OJDhTpKU"/>
-    <updated>2016-07-20T23:27:44-07:00</updated>
+    <updated>2016-07-21T11:57:44+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu2</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -25,7 +34,7 @@
   <entry>
     <title type="html"><![CDATA[Nu, Sol]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=GhDNdIkhwPk"/>
-    <updated>2016-07-20T22:54:41-07:00</updated>
+    <updated>2016-07-21T11:24:41+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -34,7 +43,7 @@
   <entry>
     <title type="html"><![CDATA[Nu, SAGA Chapter One]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ilOQO1RUoc0"/>
-    <updated>2016-06-14T15:59:38-07:00</updated>
+    <updated>2016-06-15T04:29:38+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -43,7 +52,7 @@
   <entry>
     <title type="html"><![CDATA[Nu, Lluvia Blanca]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=-ZidessNoLo"/>
-    <updated>2016-06-13T20:46:47-07:00</updated>
+    <updated>2016-06-14T09:16:47+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu1</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -52,7 +61,7 @@
   <entry>
     <title type="html"><![CDATA[Nu, Man O To]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=KsMEBEcxzYA"/>
-    <updated>2016-06-13T17:06:47-07:00</updated>
+    <updated>2016-06-14T05:36:47+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -61,7 +70,7 @@
   <entry>
     <title type="html"><![CDATA[Jamie XX, Far Nearer]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=BFeTNqfNthU"/>
-    <updated>2016-06-09T15:59:05-07:00</updated>
+    <updated>2016-06-10T04:29:05+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/jamie-xx</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -70,7 +79,7 @@
   <entry>
     <title type="html"><![CDATA[Darius, S/ash]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=WZvlzJd0-Lw"/>
-    <updated>2016-06-02T15:36:26-07:00</updated>
+    <updated>2016-06-03T04:06:26+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/darius</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -79,7 +88,7 @@
   <entry>
     <title type="html"><![CDATA[Beacon, Into the Night]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Oy1QyztKVPY"/>
-    <updated>2016-06-02T15:35:30-07:00</updated>
+    <updated>2016-06-03T04:05:30+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/beacon</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -88,7 +97,7 @@
   <entry>
     <title type="html"><![CDATA[Stev, Bamboo Delays]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=QUOdbBdm4Ro"/>
-    <updated>2016-06-02T15:34:16-07:00</updated>
+    <updated>2016-06-03T04:04:16+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/stev</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -97,7 +106,7 @@
   <entry>
     <title type="html"><![CDATA[Nick Hoppner, Boiler Room Mix]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=HXL7qvFYU5Q"/>
-    <updated>2016-05-23T11:27:41-07:00</updated>
+    <updated>2016-05-23T23:57:41+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nick-hoppner</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -106,7 +115,7 @@
   <entry>
     <title type="html"><![CDATA[H.O.S.H., Antonelli Screaming (Steve Bug Remix)]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Cq55VCRBSCw"/>
-    <updated>2016-04-19T23:35:44-07:00</updated>
+    <updated>2016-04-20T12:05:44+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/h-dot-o-s-dot-h</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -115,7 +124,7 @@
   <entry>
     <title type="html"><![CDATA[The Gentleman Losers, Silver Water Ripples]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=4dMAY5tm4cM"/>
-    <updated>2016-03-10T10:05:53-08:00</updated>
+    <updated>2016-03-10T23:35:53+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-gentleman-losers</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -124,7 +133,7 @@
   <entry>
     <title type="html"><![CDATA[A Forest Mighty Black, Little Princess]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=tidMUvYFT3o"/>
-    <updated>2016-02-22T08:47:48-08:00</updated>
+    <updated>2016-02-22T22:17:48+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/a-forest-mighty-black</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -133,7 +142,7 @@
   <entry>
     <title type="html"><![CDATA[The Gentleman Losers, Gold Dust Afternoon]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=KwPk3T_J2c0"/>
-    <updated>2016-02-22T08:46:17-08:00</updated>
+    <updated>2016-02-22T22:16:17+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-gentleman-losers</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -142,7 +151,7 @@
   <entry>
     <title type="html"><![CDATA[Seals &amp; Croft, Summer Breeze]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=MsW8rXPcnM0"/>
-    <updated>2016-02-14T11:47:21-08:00</updated>
+    <updated>2016-02-15T01:17:21+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/seals-and-croft</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -151,7 +160,7 @@
   <entry>
     <title type="html"><![CDATA[Radiohead, Bloom (Jamie XX Rework)]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=fMnh5Tn8aeM"/>
-    <updated>2016-02-08T21:18:53-08:00</updated>
+    <updated>2016-02-09T10:48:53+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/radiohead</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -160,7 +169,7 @@
   <entry>
     <title type="html"><![CDATA[Axel Boman, 1979]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=sdaTNMOb1eI"/>
-    <updated>2016-02-06T13:27:20-08:00</updated>
+    <updated>2016-02-07T02:57:20+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/axel-boman</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -169,7 +178,7 @@
   <entry>
     <title type="html"><![CDATA[Forest Swords, Friend, You Will Never Learn]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=G7qbpFUabN0"/>
-    <updated>2016-01-31T11:59:08-08:00</updated>
+    <updated>2016-02-01T01:29:08+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/forest-swords</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -178,17 +187,8 @@
   <entry>
     <title type="html"><![CDATA[Naomi, Anybody Here]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=nL8-uc500k4"/>
-    <updated>2016-01-27T14:14:29-08:00</updated>
+    <updated>2016-01-28T03:44:29+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/naomi</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Krispaglia, Instant Rudament (Laolo Remix)]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=E7Ks0wSpdwM"/>
-    <updated>2016-01-21T12:02:29-08:00</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/krispaglia</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
