@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-09-17T17:06:07+05:30</updated>
+  <updated>2016-10-23T20:07:29+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Brambles, Unsayable]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=fYSaGdYeQDA"/>
+    <updated>2016-10-23T20:07:17+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/brambles</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dark Sky, Voices]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=G7qbpFUabN0"/>
     <updated>2016-02-01T01:29:08+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/forest-swords</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Naomi, Anybody Here]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=nL8-uc500k4"/>
-    <updated>2016-01-28T03:44:29+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/naomi</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
