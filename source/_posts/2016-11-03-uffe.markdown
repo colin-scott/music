@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=HUCR1xUMdZU
+title: "Uffe, Something Wrong"
+date: 2016-11-03 11:30:48 +0530
+comments: true
+categories: 
+---
