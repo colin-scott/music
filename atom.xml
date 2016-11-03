@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-11-03T13:42:41+05:30</updated>
+  <updated>2016-11-03T14:53:44+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nicolas Jaar, Nymphs I]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ltRivI9hZRc"/>
+    <updated>2016-11-03T14:53:29+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nicolas Jaar, Mix: Against All Logic]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=MsW8rXPcnM0"/>
     <updated>2016-02-15T01:17:21+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/seals-and-croft</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Radiohead, Bloom (Jamie XX Rework)]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=fMnh5Tn8aeM"/>
-    <updated>2016-02-09T10:48:53+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/radiohead</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
