@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-10-23T20:07:29+05:30</updated>
+  <updated>2016-11-03T11:31:12+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Uffe, Something Wrong]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=HUCR1xUMdZU"/>
+    <updated>2016-11-03T11:30:48+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/uffe</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Brambles, Unsayable]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=sdaTNMOb1eI"/>
     <updated>2016-02-07T02:57:20+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/axel-boman</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Forest Swords, Friend, You Will Never Learn]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=G7qbpFUabN0"/>
-    <updated>2016-02-01T01:29:08+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/forest-swords</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
