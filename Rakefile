@@ -105,7 +105,12 @@ end
 def parse_youtube_video_id(filename)
   require 'uri'
   url = extract_url(filename)
-  video_id = URI(url).query.split("v=")[1]
+  video_id = nil
+  if url =~ /youtube.com/
+    video_id = URI(url).query.split("v=")[1]
+  elsif url =~ /youtu.be/
+    video_id = URI(url).query.split("/")[-1]
+  end
   return video_id
 end
 
@@ -141,7 +146,7 @@ task :new_post, :title do |t, args|
   system "rake generate"
   system "rake deploy"
   url = extract_url filename
-  if url =~ /youtube/i
+  if url =~ /youtube/i or url =~ /youtu.be/i
     video_id = parse_youtube_video_id filename
     system "youtube_api/add_video.py --video_id=#{video_id}"
     system %{ssh rcs@c32.millennium.berkeley.edu "cd /scratch/rcs/youtube; sudo apt-get -y install libav-tools; ../bin/youtube-dl -U; ../bin/youtube-dl -t --audio-quality 0 --audio-format mp3 --extract-audio '#{url}'"}
