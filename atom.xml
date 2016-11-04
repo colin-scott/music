@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-11-03T17:34:29+05:30</updated>
+  <updated>2016-11-04T13:44:43+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Against All Logic, Lkj]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=vc2BIAfK8t8"/>
+    <updated>2016-11-04T13:44:19+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/against-all-logic</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nicolas Jaar, Resident Advisor Mix]]></title>
@@ -32,7 +41,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Nicolas Jaar, Mix: Against All Logic]]></title>
+    <title type="html"><![CDATA[Nicolas Jaar & Against All Logic: Mix]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=IwzAoay_hV8"/>
     <updated>2016-11-03T13:42:21+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar</id>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=tidMUvYFT3o"/>
     <updated>2016-02-22T22:17:48+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/a-forest-mighty-black</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Gentleman Losers, Gold Dust Afternoon]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=KwPk3T_J2c0"/>
-    <updated>2016-02-22T22:16:17+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-gentleman-losers</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
