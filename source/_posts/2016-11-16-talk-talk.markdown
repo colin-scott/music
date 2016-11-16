@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=hCZnXg0vNs0
+title: "Talk Talk, The Rainbow"
+date: 2016-11-16 22:20:06 +0530
+comments: true
+categories: 
+---
