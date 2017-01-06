@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2016-11-20T23:00:04+05:30</updated>
+  <updated>2017-01-07T04:31:33+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nightmares On Wax, Boiler Room Set]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Q692lHFaLVM"/>
+    <updated>2017-01-07T04:31:20+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nightmares-on-wax</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Talk Talk, The Rainbow]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Cq55VCRBSCw"/>
     <updated>2016-04-20T12:05:44+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/h-dot-o-s-dot-h</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Gentleman Losers, Silver Water Ripples]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=4dMAY5tm4cM"/>
-    <updated>2016-03-10T23:35:53+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-gentleman-losers</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
