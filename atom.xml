@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-01-07T04:31:33+05:30</updated>
+  <updated>2017-01-15T09:24:33+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bonobo, Bambro Koyo Ganda (feat. Innov Gnawa)]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=9bZmA4j8l2A"/>
+    <updated>2017-01-15T09:24:11+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/bonobo</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nightmares On Wax, Boiler Room Set]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=HXL7qvFYU5Q"/>
     <updated>2016-05-23T23:57:41+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nick-hoppner</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[H.O.S.H., Antonelli Screaming (Steve Bug Remix)]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Cq55VCRBSCw"/>
-    <updated>2016-04-20T12:05:44+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/h-dot-o-s-dot-h</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
