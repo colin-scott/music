@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-02-06T19:44:45+05:30</updated>
+  <updated>2017-02-06T19:55:38+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mansionair, Hold Me Down]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=r0bS-YnLf4s"/>
+    <updated>2017-02-06T19:55:18+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/mansionair</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Flight Facilities, Crave You feat. Giselle]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Oy1QyztKVPY"/>
     <updated>2016-06-03T04:05:30+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/beacon</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Stev, Bamboo Delays]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=QUOdbBdm4Ro"/>
-    <updated>2016-06-03T04:04:16+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/stev</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
