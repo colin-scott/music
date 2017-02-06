@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-02-06T19:58:11+05:30</updated>
+  <updated>2017-02-06T20:01:36+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Evenings, Chesapeake]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7cBlCAbKB-k"/>
+    <updated>2017-02-06T20:01:04+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/evenings</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Project Pablo, The Feeling]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=BFeTNqfNthU"/>
     <updated>2016-06-10T04:29:05+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/jamie-xx</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Darius, S/ash]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=WZvlzJd0-Lw"/>
-    <updated>2016-06-03T04:06:26+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/darius</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
