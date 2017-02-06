@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-01-15T09:24:33+05:30</updated>
+  <updated>2017-02-06T19:44:45+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Flight Facilities, Crave You feat. Giselle]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=r0bS-YnLf4s"/>
+    <updated>2017-02-06T19:44:25+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/flight-facilities</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bonobo, Bambro Koyo Ganda (feat. Innov Gnawa)]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=QUOdbBdm4Ro"/>
     <updated>2016-06-03T04:04:16+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/stev</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nick Hoppner, Boiler Room Mix]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=HXL7qvFYU5Q"/>
-    <updated>2016-05-23T23:57:41+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nick-hoppner</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
