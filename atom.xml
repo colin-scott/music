@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-02-06T20:01:36+05:30</updated>
+  <updated>2017-02-06T20:05:40+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Catz 'N Dogs, The Joy]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=exeHEykK6dY"/>
+    <updated>2017-02-06T20:03:22+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/catz-n-dogs</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Evenings, Chesapeake]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=KsMEBEcxzYA"/>
     <updated>2016-06-14T05:36:47+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jamie XX, Far Nearer]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=BFeTNqfNthU"/>
-    <updated>2016-06-10T04:29:05+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/jamie-xx</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
