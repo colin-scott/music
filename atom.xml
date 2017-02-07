@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-02-07T10:20:15+05:30</updated>
+  <updated>2017-02-07T10:24:47+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Emancipator, All Through the Night]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=4K2k_3Vagw4"/>
+    <updated>2017-02-07T10:24:12+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/emancipator</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Message To Bears, Running Through Woodland]]></title>
@@ -179,15 +188,6 @@
     <title type="html"><![CDATA[Nu, Sol]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=GhDNdIkhwPk"/>
     <updated>2016-07-21T11:24:41+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nu, SAGA Chapter One]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ilOQO1RUoc0"/>
-    <updated>2016-06-15T04:29:38+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu</id>
     <content type="html"><![CDATA[
 ]]></content>
