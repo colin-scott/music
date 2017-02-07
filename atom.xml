@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-02-07T10:14:41+05:30</updated>
+  <updated>2017-02-07T10:18:33+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Boats, This is for you to read]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=xdCa3_cADaA"/>
+    <updated>2017-02-07T10:18:15+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-boats</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Catz 'N Dogs, The Joy]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=-ZidessNoLo"/>
     <updated>2016-06-14T09:16:47+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu1</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nu, Man O To]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=KsMEBEcxzYA"/>
-    <updated>2016-06-14T05:36:47+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nu</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
