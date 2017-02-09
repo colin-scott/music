@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-02-07T10:28:25+05:30</updated>
+  <updated>2017-02-09T20:17:11+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Flume &amp; Chet Faker, Drop the Game]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=6vopR3ys8Kw"/>
+    <updated>2017-02-09T20:16:59+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/flume-and-chet-faker</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Elderbrook, Could]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=fYSaGdYeQDA"/>
     <updated>2016-10-23T20:07:17+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/brambles</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dark Sky, Voices]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=_yYb58FKcmQ"/>
-    <updated>2016-09-17T17:05:46+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/dark-sky</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
