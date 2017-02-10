@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-02-10T17:37:02+05:30</updated>
+  <updated>2017-02-10T18:18:40+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Glass Animals, Hazey]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=nOHEuhJf7nA"/>
+    <updated>2017-02-10T18:18:25+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/glass-animals</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Paper Kites, Young]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=IwzAoay_hV8"/>
     <updated>2016-11-03T13:42:21+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Uffe, Something Wrong]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=HUCR1xUMdZU"/>
-    <updated>2016-11-03T11:30:48+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/uffe</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
