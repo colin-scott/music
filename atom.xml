@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-02-10T18:25:53+05:30</updated>
+  <updated>2017-03-02T10:14:04+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nicolas Jaar, Fight]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=T4WZ21Kuf64"/>
+    <updated>2017-03-02T10:13:50+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Cardigans, Lovefool]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Pwd1uNy0tD4"/>
     <updated>2016-11-03T17:34:00+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar3</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nicolas Jaar, Nymphs I]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ltRivI9hZRc"/>
-    <updated>2016-11-03T14:53:29+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar2</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
