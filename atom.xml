@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-03-02T10:14:04+05:30</updated>
+  <updated>2017-03-02T21:10:19+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tower of Power, Squib Cakes]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=pvJH0x1CTho"/>
+    <updated>2017-03-02T21:10:08+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/tower-of-power</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nicolas Jaar, Fight]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=vc2BIAfK8t8"/>
     <updated>2016-11-04T13:44:19+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/against-all-logic</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nicolas Jaar, Resident Advisor Mix]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Pwd1uNy0tD4"/>
-    <updated>2016-11-03T17:34:00+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar3</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
