@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-03-02T21:10:19+05:30</updated>
+  <updated>2017-03-13T16:25:44+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[RJ2D, Work]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=aNPC0n3pMjA"/>
+    <updated>2017-03-13T16:25:27+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/rj2d</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tower of Power, Squib Cakes]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=hCZnXg0vNs0"/>
     <updated>2016-11-16T22:20:06+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/talk-talk</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Against All Logic, Lkj]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=vc2BIAfK8t8"/>
-    <updated>2016-11-04T13:44:19+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/against-all-logic</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
