@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-04-01T20:30:32+05:30</updated>
+  <updated>2017-04-01T20:49:18+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Solomum, Boiler Room Tulum]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=bk6Xst6euQk"/>
+    <updated>2017-04-01T20:47:54+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/solomum</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bonobo, Mixmag Live 2017]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=9bZmA4j8l2A"/>
     <updated>2017-01-15T09:24:11+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/bonobo</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nightmares On Wax, Boiler Room Set]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=Q692lHFaLVM"/>
-    <updated>2017-01-07T04:31:20+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nightmares-on-wax</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
