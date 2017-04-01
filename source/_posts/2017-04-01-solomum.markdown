@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=bk6Xst6euQk 
+title: "Solomum, Boiler Room Tulum"
+date: 2017-04-01 20:47:54 +0530
+comments: true
+categories: 
+---
