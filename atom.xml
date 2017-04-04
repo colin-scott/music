@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-04-03T18:29:56+05:30</updated>
+  <updated>2017-04-04T10:25:06+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Brambles, Deep Corridor]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=CUVSHS-1jlc&t=124s"/>
+    <updated>2017-04-04T10:24:49+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/brambles</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bonobo and Machinedrum in the Lab LA]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=r0bS-YnLf4s"/>
     <updated>2017-02-06T19:55:18+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/mansionair</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Flight Facilities, Crave You feat. Giselle]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=r0bS-YnLf4s"/>
-    <updated>2017-02-06T19:44:25+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/flight-facilities</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
