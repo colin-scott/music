@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-04-04T10:25:06+05:30</updated>
+  <updated>2017-04-04T10:26:55+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[La Fine Equipe, Girl Scout Cookie]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=P586bZ0-L8I"/>
+    <updated>2017-04-04T10:26:37+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/la-fine-equipe</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Brambles, Deep Corridor]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=QZtcNkXKn30"/>
     <updated>2017-02-06T19:57:46+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/project-pablo</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Mansionair, Hold Me Down]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=r0bS-YnLf4s"/>
-    <updated>2017-02-06T19:55:18+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/mansionair</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
