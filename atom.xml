@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-05-29T21:52:50+05:30</updated>
+  <updated>2017-05-29T22:03:56+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nicolas Jaar, The Rejects]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=yAdEGI2Crg0"/>
+    <updated>2017-05-29T22:03:43+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar4</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nicolas Jaar, Other People]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=4K2k_3Vagw4"/>
     <updated>2017-02-07T10:24:12+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/emancipator</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Message To Bears, Running Through Woodland]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=syTZ3N_rggo"/>
-    <updated>2017-02-07T10:20:02+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/message-to-bears</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
