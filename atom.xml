@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-05-29T23:08:12+05:30</updated>
+  <updated>2017-05-29T23:24:39+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nicolas Jaar, Change Your Name]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=on5uEL38c0I"/>
+    <updated>2017-05-29T23:24:19+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar6</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nicolas Jaar, The Rejects]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=LRCdggj2qGs"/>
     <updated>2017-02-07T10:28:13+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/elderbrook</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Funki Porcini, Bed to Be]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7yUdL82rbBw"/>
-    <updated>2017-02-07T10:26:07+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/funki-porcini</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
