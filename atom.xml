@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-05-29T22:03:56+05:30</updated>
+  <updated>2017-05-29T23:08:12+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -45,6 +45,15 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=oEvh0c86SJE"/>
     <updated>2017-05-29T20:24:17+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nicolas Jaar, The Number And The Siren]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=B-VF8bIhmzw"/>
+    <updated>2017-05-29T00:00:00+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar5</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=7yUdL82rbBw"/>
     <updated>2017-02-07T10:26:07+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/funki-porcini</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Emancipator, All Through the Night]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=4K2k_3Vagw4"/>
-    <updated>2017-02-07T10:24:12+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/emancipator</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
