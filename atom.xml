@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-05-29T23:24:39+05:30</updated>
+  <updated>2017-05-30T12:13:49+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jan Jelinek, Looping Through Jazz Records]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=6hIgBEXuQD8"/>
+    <updated>2017-05-30T12:13:28+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/jan-jelinek</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nicolas Jaar, Change Your Name]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=6vopR3ys8Kw"/>
     <updated>2017-02-09T20:16:59+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/flume-and-chet-faker</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Elderbrook, Could]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=LRCdggj2qGs"/>
-    <updated>2017-02-07T10:28:13+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/elderbrook</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
