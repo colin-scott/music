@@ -1487,10 +1487,6 @@
         <lastmod>2017-04-29T16:02:21+05:30</lastmod>
     </url>
     <url>
-        <loc>http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=B-VF8bIhmzw</loc>
-        <lastmod>2017-05-29T23:08:06+05:30</lastmod>
-    </url>
-    <url>
         <loc>http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=oEvh0c86SJE</loc>
         <lastmod>2017-05-29T20:24:29+05:30</lastmod>
     </url>
@@ -1505,6 +1501,10 @@
     <url>
         <loc>http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=yAdEGI2Crg0</loc>
         <lastmod>2017-05-29T22:03:50+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=B-VF8bIhmzw</loc>
+        <lastmod>2017-09-20T09:44:00+05:30</lastmod>
     </url>
     <url>
         <loc>http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=on5uEL38c0I</loc>
@@ -1523,11 +1523,15 @@
         <lastmod>2017-06-19T11:05:56+05:30</lastmod>
     </url>
     <url>
+        <loc>http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=EwgkBc7YRII</loc>
+        <lastmod>2017-09-20T09:45:52+05:30</lastmod>
+    </url>
+    <url>
         <loc>http://colin-scott.github.io/music/blog/archives/</loc>
-        <lastmod>2017-06-19T11:05:56+05:30</lastmod>
+        <lastmod>2017-09-20T09:45:52+05:30</lastmod>
     </url>
     <url>
         <loc>http://colin-scott.github.io/music/</loc>
-        <lastmod>2017-06-19T11:05:56+05:30</lastmod>
+        <lastmod>2017-09-20T09:45:52+05:30</lastmod>
     </url>
 </urlset>

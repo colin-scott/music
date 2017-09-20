@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-06-19T11:06:05+05:30</updated>
+  <updated>2017-09-20T09:46:01+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DeepChord, Echospace]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=EwgkBc7YRII"/>
+    <updated>2017-09-20T09:45:20+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/deepchord</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Axel Boman, Bottoms Up]]></title>
@@ -50,6 +59,15 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Nicolas Jaar, The Number And The Siren]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=B-VF8bIhmzw"/>
+    <updated>2017-05-29T23:07:23+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar5</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Nicolas Jaar, The Rejects]]></title>
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=yAdEGI2Crg0"/>
     <updated>2017-05-29T22:03:43+05:30</updated>
@@ -81,15 +99,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=oEvh0c86SJE"/>
     <updated>2017-05-29T20:24:17+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nicolas Jaar, The Number And The Siren]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=B-VF8bIhmzw"/>
-    <updated>2017-05-29T00:00:00+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar5</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=CRsSr4Fd_2U&app=desktop"/>
     <updated>2017-02-10T18:25:41+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/the-cardigans</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Glass Animals, Hazey]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=nOHEuhJf7nA"/>
-    <updated>2017-02-10T18:18:25+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/glass-animals</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
