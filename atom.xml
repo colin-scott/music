@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-09-20T20:05:56+05:30</updated>
+  <updated>2017-09-20T20:07:38+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Clogs, Death and the Maiden]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=esVnyd7qk3U"/>
+    <updated>2017-09-20T20:07:18+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/clogs</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Imagined Herbal Flows, Floating]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=aNPC0n3pMjA"/>
     <updated>2017-03-13T16:25:27+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/rj2d</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tower of Power, Squib Cakes]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=pvJH0x1CTho"/>
-    <updated>2017-03-02T21:10:08+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/tower-of-power</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
