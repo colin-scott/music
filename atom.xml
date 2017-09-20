@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-09-20T20:07:38+05:30</updated>
+  <updated>2017-09-20T20:09:47+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Midland, Tape Burn]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=SzbuVn-JkKc"/>
+    <updated>2017-09-20T20:09:22+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/midland</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Clogs, Death and the Maiden]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ERLy4Dam1pU"/>
     <updated>2017-04-01T20:30:04+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/bonobo</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[RJ2D, Work]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=aNPC0n3pMjA"/>
-    <updated>2017-03-13T16:25:27+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/rj2d</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
