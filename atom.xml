@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-09-20T20:03:33+05:30</updated>
+  <updated>2017-09-20T20:05:56+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Imagined Herbal Flows, Floating]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=arO5a7b98wc"/>
+    <updated>2017-09-20T20:05:41+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/imagined-herbal-flows</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[KAASI, Hold on Me]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=pvJH0x1CTho"/>
     <updated>2017-03-02T21:10:08+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/tower-of-power</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nicolas Jaar, Fight]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=T4WZ21Kuf64"/>
-    <updated>2017-03-02T10:13:50+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/nicolas-jaar</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
