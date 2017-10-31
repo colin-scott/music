@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-10-31T14:45:27+05:30</updated>
+  <updated>2017-10-31T15:01:37+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lusine Icl, Scheming]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=V_NECAVe1ig"/>
+    <updated>2017-10-31T15:01:20+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/lusine-icl</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jenova 7, Drive]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=fwnioTS90B4"/>
     <updated>2017-04-03T18:29:46+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/bonobo-and-machinedrum-in-the-lab-la</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Solomum, Boiler Room Tulum]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=bk6Xst6euQk"/>
-    <updated>2017-04-01T20:47:54+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/solomum</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
