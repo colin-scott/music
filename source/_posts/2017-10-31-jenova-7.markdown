@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=4PsmTpqpPwU
+title: "Jenova 7, Drive"
+date: 2017-10-31 14:45:07 +0530
+comments: true
+categories: 
+---
