@@ -4,7 +4,7 @@
   <title><![CDATA[Music Notebook]]></title>
   <link href="http://colin-scott.github.io/music/atom.xml" rel="self"/>
   <link href="http://colin-scott.github.io/music/"/>
-  <updated>2017-09-20T20:09:47+05:30</updated>
+  <updated>2017-10-31T14:45:27+05:30</updated>
   <id>http://colin-scott.github.io/music/</id>
   <author>
     <name><![CDATA[Colin Scott]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jenova 7, Drive]]></title>
+    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=4PsmTpqpPwU"/>
+    <updated>2017-10-31T14:45:07+05:30</updated>
+    <id>http://colin-scott.github.io/musichttps://www.youtube.com/jenova-7</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Midland, Tape Burn]]></title>
@@ -180,15 +189,6 @@
     <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=bk6Xst6euQk"/>
     <updated>2017-04-01T20:47:54+05:30</updated>
     <id>http://colin-scott.github.io/musichttps://www.youtube.com/solomum</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bonobo, Mixmag Live 2017]]></title>
-    <link href="http://colin-scott.github.io/musichttps://www.youtube.com/watch?v=ERLy4Dam1pU"/>
-    <updated>2017-04-01T20:30:04+05:30</updated>
-    <id>http://colin-scott.github.io/musichttps://www.youtube.com/bonobo</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
