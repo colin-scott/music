@@ -1,7 +1,6 @@
 #!/usr/bin/ruby
 
-posts_dir       = "_posts"    # directory for blog files
-new_post_ext    = "markdown"  # default new post file extension when using the new_post task
+require 'uri'
 
 def extract_url(filename)
   File.foreach(filename) do |line|
@@ -25,8 +24,10 @@ def parse_youtube_video_id(filename)
 end
 
 def upload_post(title)
-  mkdir_p "#{posts_dir}"
-  filename = "#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+  posts_dir       = "_posts"    # directory for blog files
+  new_post_ext    = "markdown"  # default new post file extension when using the new_post task
+
+  filename = "#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{URI::encode(title)}.#{new_post_ext}"
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
@@ -58,7 +59,7 @@ end
 
 if __FILE__ == $0
   if ARGV.empty?
-    raise ArgumentError.new("Expected: #{$0} <title>"
+    raise ArgumentError.new(%{Expected: #{$0} "Title of post as a quoted string"})
   end
   upload_post(ARGV.shift)
 end
