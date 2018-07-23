@@ -13,7 +13,7 @@ author: Colin Scott
 email: cs@cs
 description: "This is a notebook of songs that fit my mood."
 baseurl: "/music" # the subpath of your site, e.g. /blog
-root: "/music"
+#root: "/music"
 keywords: music
 url: http://colin-scott.github.io/music/
 twitter_username: _colin_scott_
