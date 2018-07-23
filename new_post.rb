@@ -1,6 +1,5 @@
 #!/usr/bin/ruby
 
-source_dir      = "source"    # source file directory
 posts_dir       = "_posts"    # directory for blog files
 new_post_ext    = "markdown"  # default new post file extension when using the new_post task
 
@@ -26,8 +25,8 @@ def parse_youtube_video_id(filename)
 end
 
 def upload_post(title)
-  mkdir_p "#{source_dir}/#{posts_dir}"
-  filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+  mkdir_p "#{posts_dir}"
+  filename = "#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
@@ -43,11 +42,9 @@ def upload_post(title)
     post.puts "---"
   end
   system "vim #{filename}"
-  system "git add source/_posts"
+  system "git add _posts"
   system "git commit -m 'new song'"
   system "git push"
-  system "rake generate"
-  system "rake deploy"
   url = extract_url filename
   if url =~ /youtube/i or url =~ /youtu.be/i
     video_id = parse_youtube_video_id filename
@@ -59,3 +56,9 @@ def upload_post(title)
   end
 end
 
+if __FILE__ == $0
+  if ARGV.empty?
+    raise ArgumentError.new("Expected: #{$0} <title>"
+  end
+  upload_post(ARGV.shift)
+end
