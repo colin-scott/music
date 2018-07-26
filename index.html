@@ -6,22 +6,13 @@ layout: default
   {% assign index = true %}
   <h3>Music Notebook</h3>
   This is a notebook of songs that fit my mood. Listen to it as a
-  continuous playlist <a href="http://www.youtube.com/playlist?list=PLnUaekj3U9eAdGkoxaf4Nh1cJpndJVxwP">here</a> and
-  <a href='http://www.youtube.com/playlist?list=PLnUaekj3U9eD9Umdi7N5Ju_43j8QYKvdj'>here</a>.
+  continuous playlist <a href="https://www.youtube.com/playlist?list=PLnUaekj3U9eAdGkoxaf4Nh1cJpndJVxwP">here</a> and
+  <a href='https://www.youtube.com/playlist?list=PLnUaekj3U9eD9Umdi7N5Ju_43j8QYKvdj'>here</a>.
   <hr>
-  {% for post in paginator.posts %}
+  {%- for post in site.posts -%}
   {% assign content = post.content %}
     <article>
       {% include article.html %}
     </article>
   {% endfor %}
-  <ul class="pager">
-    {% if paginator.next_page %}
-    <li class="previous"><a href="{{paginator.next_page_path}}">&larr; Older</a></li>
-    {% endif %}
-    <li><a href="/blog/archives">Archives</a></li>
-    {% if paginator.previous_page %}
-    <li class="next"><a href="{{paginator.previous_page_path}}">Newer &rarr;</a></li>
-    {% endif %}
-  </ul>
 </div>

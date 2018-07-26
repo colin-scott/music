@@ -7,7 +7,6 @@
 
 # Site settings
 
-plugins: [jekyll-paginate]
 title: Music Notebook
 author: Colin Scott
 email: cs@cs
@@ -20,6 +19,7 @@ twitter_username: _colin_scott_
 github_username:  colin-scott
 subscribe_rss: /atom.xml
 permalink: /blog/:year/:month/:day/:title/
+plugins: []
 
 # Build settings
 markdown: kramdown
@@ -34,11 +34,6 @@ rdiscount:
   parse_block_html: true
 
 google_analytics_tracking_id: UA-29849261-2
-
-pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
-paginate_path: "/blog/page:num/"
-paginate: 100          # Posts per page on the blog index
-pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
