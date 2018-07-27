@@ -1,2 +1,5 @@
+- Bug: bootstrap's navbar-fixed-top has overlapping issues. Current fix uses
+  javascript which waits until onLoad()... which takes a long time.
+
  - No "Older" button?
  - Email auth doesn't work if I'm signed in as ikneaddough
