@@ -29,7 +29,7 @@ def upload_post(title)
 
   filename = "#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{URI::encode(title)}.#{new_post_ext}"
   if File.exist?(filename)
-    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+    abort("Files already exists... #{filename}")
   end
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
