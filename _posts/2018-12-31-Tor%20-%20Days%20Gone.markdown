@@ -1,0 +1,8 @@
+---
+layout: post
+permalink: https://www.youtube.com/watch?v=NyBFuj0BBh8
+title: "Tor - Days Gone"
+date: 2018-12-31 17:57:22 -0800
+comments: true
+categories: 
+---
